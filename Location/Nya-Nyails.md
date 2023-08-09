@@ -1,0 +1,1 @@
+Nya-'Nyails' Nail Salon is a cat-themed nail salon [Emira](Emira.md) overhears [Miriam](Miriam.md) and [Musa](Musa.md) discussing [Zhen](Zhen.md)'s parentage and whereabouts in [Kashgar](Kashgar.md). They would come to the salon as children with [their mother](Musa's%20mother.md).
