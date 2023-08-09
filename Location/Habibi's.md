@@ -1,4 +1,4 @@
-Habibi's Diner is a breakfast and lunch diner in [Salwa](Salwa.md) where [Sam](Sam.md) and [Zach](Zach.md) met each other, and later where they both met [Musa](Musa.md).
+Habibi's Diner is a breakfast and lunch diner in [Salwa](Salwa.md) where [Sam](../Person/Sam.md) and [Zach](../Person/Zach.md) met each other, and later where they both met [Musa](../Person/Musa.md).
 
 # References
 New Year's Eve, 1997 1

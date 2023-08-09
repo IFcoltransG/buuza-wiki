@@ -2,9 +2,9 @@ Emira the info broker (they/them) is a cat, friend of [Zach](Zach.md) by way of 
 
 When [Harshul](Harshul.md) told [Zach](Zach.md) to come to them for a lead on a flat, they sent [Zach](Zach.md) to [Nithiya](Nithiya.md), who they are friends with.
 
-Hangs around at [Nyah's Shisha](Nyah's%20Shisha.md). Emira is a [Rasul](Rasul.md), along with their friend, also a cat, [Omar](Omar).
+Hangs around at [Nyah's Shisha](../Location/Nyah's%20Shisha.md). Emira is a [Rasul](Groups/Rasul.md), along with their friend, also a cat, [Omar](Omar).
 
-Emira overheard information about [Zhen](Zhen.md) from Miriam and [Musa](Musa.md) at [Nya-Nyails](Nya-Nyails.md), which [Aria](Aria.md) told them to eventually leak to the media, partially in order to deter Miriam from looking for Zhen.
+Emira overheard information about [Zhen](Zhen.md) from Miriam and [Musa](Musa.md) at [Nya-Nyails](../Location/Nya-Nyails.md), which [Aria](Aria.md) told them to eventually leak to the media, partially in order to deter Miriam from looking for Zhen.
 
 [Sam](Sam.md) calls Emira 'greasy cat'.
 # References

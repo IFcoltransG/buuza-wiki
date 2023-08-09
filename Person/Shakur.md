@@ -1,1 +1,1 @@
-Representative on the [Council](Council.md) of the holy family of [Rajastan](Rajastan.md).
+Representative on the [Council](Groups/Council.md) of the holy family of [Rajastan](../Location/Regions/Rajastan.md).

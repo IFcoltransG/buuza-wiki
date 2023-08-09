@@ -1,4 +1,4 @@
-Bird gods. Supposedly dead gods, persecuted. Not gods of death though. Have no holy family, and are different from [Rasul](Rasul.md).
+Bird gods. Supposedly dead gods, persecuted. Not gods of death though. Have no holy family, and are different from [Rasul](../Person/Groups/Rasul.md).
 
 An Nur is potentially also called 'Al Nur'. An Nur's followers pray at Fajr, like the followers of [Al Mu'min](Al%20Mu'min.md).
 Followers of Al Hadi usually pray at Mahgrib.
