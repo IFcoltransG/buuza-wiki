@@ -108,9 +108,11 @@ function handle_html_content(html) {
     	let link = $(tag).attr("href");
         // Check if the link points to a local file
         // and was not loaded
-        if (link && link !== "." && !link.startsWith("http") && !link.startsWith("#") && !file_contents[link]) {
-            // If this file wasn't loaded
-            $(tag).css("color", "red");
+        if (link && link !== "." && !link.startsWith("http") && !link.startsWith("#")) {
+        	fetch_markdown(link, function(){}, function() {
+           		// If this file wasn't loaded
+       			$(this).css("color", "red")
+       		}.bind(tag));
         }
     });
     intercept_content_link($('#content a'));
@@ -126,14 +128,14 @@ function handle_markdown(file) {
 }
 
 // fetch markdown content, with cache
-function fetch_markdown(filename, callback) {
+function fetch_markdown(filename, callback, failure = function() {}) {
     if (file_contents[filename]) {
         callback(file_contents[filename]);
     } else {
         $.get(filename, function(data) {
             file_contents[filename] = data;
             callback(data);
-        });
+        }).fail(failure);
     }
 }
 
