@@ -103,11 +103,19 @@ function handle_html_content(html) {
     $('#content pre code').each(function(i, block) {
         hljs.highlightBlock(block);
     });
-
+    // mark as red if file does not exist
+	$('a').each(function(i, tag) {
+    	let link = $(tag).attr("href");
+        // Check if the link points to a local file
+        // and was not loaded
+        if (link && link !== "." && !link.startsWith("http") && !link.startsWith("#") && !file_contents[link]) {
+            // If this file wasn't loaded
+            $(tag).css("color", "red");
+        }
+    });
     intercept_content_link($('#content a'));
     var toc = generate_toc($('#content'));
     $('#toc').html(toc);
-
 }
 
 // load markdown file and intercept the link
