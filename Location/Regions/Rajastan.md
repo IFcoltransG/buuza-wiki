@@ -1,4 +1,5 @@
-Rajastan is a region of [Dawlat Al-Harir](../Dawlat%20Al-Harir.md) to the south-east. Borders [Zazasthala](Zazasthala.md) to the east, [Durrani](Durrani.md) to the west and [Eastern Turkistan](Eastern%20Turkistan.md) to the north. Holy family representative is [Shakur](../../Person/Shakur.md).
+# Rajastan
+Rajastan is a region of [[Dawlat Al-Harir|Dawlat Al-Harir]] to the south-east. Borders [[Zazasthala|Zazasthala]] to the east, [[Durrani|Durrani]] to the west and [[Eastern Turkistan|Eastern Turkistan]] to the north. Holy family representative is [[Shakur|Shakur]].
 
-# References
-Silent Songs 2
+## References
+- Silent Songs 2

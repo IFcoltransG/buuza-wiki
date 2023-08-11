@@ -1,4 +1,5 @@
-Security guard for [Cid](Cid.md).
+# Bhai
+Security guard for [[Cid|Cid]].
 
-# References
-Cid 2
+## References
+- Cid 2

@@ -1,5 +1,6 @@
+# Chevalier Business Conglomerate
 Chevalier Industries.
-Heirs are [Zhen](../Zhen.md), [Musa](../Musa.md) and [Miriam](../Miriam.md).
+Heirs are [[Zhen|Zhen]], [[Musa|Musa]] and [[Miriam|Miriam]].
 
-# References
-In the Land of Spider Silk 3
+## References
+- In the Land of Spider Silk 3

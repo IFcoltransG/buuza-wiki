@@ -1,4 +1,5 @@
-Was going to have a meeting with [Miriam](Miriam.md), organised by [Farrah](Farrah).
+# Mr Ahmadi
+Was going to have a meeting with [[Miriam|Miriam]], organised by [[Farrah]].
 
-# References
-The Space Between Us 1
+## References
+- The Space Between Us 1

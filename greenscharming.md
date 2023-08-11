@@ -1,3 +1,4 @@
+# greenscharming
 Greenscharming is an ability of Rasul to prevent weeds from growing back by blessing a place. The blessing they give follows:
 
 > In the name of the just, her radiance a beacon in the night.
@@ -9,9 +10,9 @@ Greenscharming is an ability of Rasul to prevent weeds from growing back by bles
 > To hold this land still.
 > Ameen.
 
-Comparing the descriptions with the iconography on their [Deathhead](Deathhead.md) artworks, the radiant just could potentially be [As Sami](Religion/As%20Sami.md) or [Al 'Adl](Religion/Al%20'Adl.md). The faithful son of day might be [Al Mu'min](Religion/Al%20Mu'min.md).
+Comparing the descriptions with the iconography on their [[Deathhead|Deathhead]] artworks, the radiant just could potentially be [[As Sami|As Sami]] or [[Al Adl|Al 'Adl]]. The faithful son of day might be [[Al Mumin|Al 'Mumin]].
 
-[Sam](Person/Sam.md) works as a greenscharmer, and she enlisted [Zach](Person/Zach.md) to help with it when performing the ritual.
+[[Sam|Sam]] works as a greenscharmer, and she enlisted [[Zach|Zach]] to help with it when performing the ritual.
 
-# References
-It's Faster With Two 1
+## References
+- It's Faster With Two 1

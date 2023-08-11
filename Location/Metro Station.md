@@ -1,4 +1,5 @@
-The visible part of a name of train station. You can take the train from there to the [Sooq](Sooq.md).
+# Metro Station
+The visible part of a name of train station. You can take the train from there to the [[Sooq|Sooq]].
 
-# References
-Bet On It 3
+## References
+- Bet On It 3

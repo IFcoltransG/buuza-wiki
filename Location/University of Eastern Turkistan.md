@@ -1,4 +1,5 @@
-A university in [Eastern Turkistan](Regions/Eastern%20Turkistan.md), where [Zhen](../Person/Zhen.md) studied photography.
+# University of Eastern Turkistan
+A university in [[Eastern Turkistan|Eastern Turkistan]], where [[Zhen|Zhen]] studied photography.
 
-# References
-Lost \[like a Winter Moon\] 1
+## References
+- Lost \[like a Winter Moon\] 1

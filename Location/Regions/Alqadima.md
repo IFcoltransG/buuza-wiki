@@ -1,4 +1,5 @@
-Alqadima is a region of south-western [Dawlat Al-Harir](../Dawlat%20Al-Harir.md). [Abdi](../../Person/Abdi.md) is the holy family representative. Borders [Abu Eankabut](Abu%20Eankabut.md) and [Dilmun](Dilmun.md) to the north.
+# Alqadima
+Alqadima is a region of south-western [[Dawlat Al-Harir|Dawlat Al-Harir]]. [[Abdi|Abdi]] is the holy family representative. Borders [[Abu Eankabut|Abu Eankabut]] and [[Dilmun|Dilmun]] to the north.
 
-# References
-Silent Songs 2
+## References
+- Silent Songs 2
