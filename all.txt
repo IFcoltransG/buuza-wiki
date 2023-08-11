@@ -78,4 +78,3 @@ Location/Kat Pharma.md
 Location/Shymkentnational Rail Station.md
 Location/University of Eastern Turkistan.md
 buuza dish.md
-LICENSE.md
