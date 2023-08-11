@@ -1,2 +1,2 @@
 #!/bin/sh
-find ./ -type f -name "*.md" | cut -c2- > all.txt
+find ./ -type f -name "*.md" | cut -c3- > all.txt
