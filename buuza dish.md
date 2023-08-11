@@ -3,5 +3,5 @@ Buuza are the namesake of the comic. Steamed mutton dumplings, with some vegetab
 
 ## See also
 - [Buuza](Location/Buuza.md)
-# References
+## References
 - My Quiet Mountain Town 4
