@@ -10,9 +10,9 @@ Greenscharming is an ability of Rasul to prevent weeds from growing back by bles
 > To hold this land still.
 > Ameen.
 
-Comparing the descriptions with the iconography on their [[Deathhead|Deathhead]] artworks, the radiant just could potentially be [[As Sami|As Sami]] or [[Al Adl|Al 'Adl]]. The faithful son of day might be [[Al Mumin|Al 'Mumin]].
+Comparing the descriptions with the iconography on their [Deathhead](Deathhead.md) artworks, the radiant just could potentially be [As Sami](Religion/As%20Sami.md) or [Al 'Adl](Religion/Al%20Adl.md). The faithful son of day might be [Al 'Mumin](Religion/Al%20Mumin.md).
 
-[[Sam|Sam]] works as a greenscharmer, and she enlisted [[Zach|Zach]] to help with it when performing the ritual.
+[Sam](Person/Sam.md) works as a greenscharmer, and she enlisted [Zach](Person/Zach.md) to help with it when performing the ritual.
 
 ## References
 - It's Faster With Two 1

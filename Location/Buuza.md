@@ -1,8 +1,8 @@
 # Buuza
-Buuza Mongolian Diner is an upcoming [[Mongolia|Mongolian]] restaurant in [[Salwa|Salwa]], which [[Sam|Sam]] will run, potentially with help from [[Zach|Zach]]. It is located in [[Nithiya|Nithiya's]] apartment building, on the floor below her office.
+Buuza Mongolian Diner is an upcoming [Mongolian](Location/Mongolia.md) restaurant in [Salwa](Location/Salwa.md), which [Sam](Person/Sam.md) will run, potentially with help from [Zach](Person/Zach.md). It is located in [Nithiya's](Person/Nithiya.md) apartment building, on the floor below her office.
 
 ## See also
-- [[dish)](dish|buuza (dish)]]))
+- [buuza (dish)](dish))))
 
 ## References
 - The Promise 3

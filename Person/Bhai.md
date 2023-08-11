@@ -1,5 +1,5 @@
 # Bhai
-Security guard for [[Cid|Cid]].
+Security guard for [Cid](Person/Cid.md).
 
 ## References
 - Cid 2

@@ -1,2 +1,2 @@
 # Shakur
-Representative on the [[Council|Council]] of the holy family of [[Rajastan|Rajastan]].
+Representative on the [Council](Person/Groups/Council.md) of the holy family of [Rajastan](Location/Regions/Rajastan.md).

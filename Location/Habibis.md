@@ -1,5 +1,5 @@
 # Habibi's
-Habibi's Diner is a breakfast and lunch diner in [[Salwa|Salwa]] where [[Sam|Sam]] and [[Zach|Zach]] met each other, and later where they both met [[Musa|Musa]].
+Habibi's Diner is a breakfast and lunch diner in [Salwa](Location/Salwa.md) where [Sam](Person/Sam.md) and [Zach](Person/Zach.md) met each other, and later where they both met [Musa](Person/Musa.md).
 
 ## References
 - New Year's Eve, 1997 1

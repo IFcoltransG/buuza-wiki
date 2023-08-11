@@ -1,11 +1,11 @@
 # Miriam
-Miriam Farris (she/her), Prime Minister of [[Dawlat Al-Harir|Dawlat Al-Harir]], sister of [[Musa|Musa]] and [[Zhen|Zhen]]. The people's elected official, overseeing civil law about the non-[[Council|council]] ministries. Heiress to the [[Chevalier Business Conglomerate|Chevalier Business Conglomerate]]. She's gay. Her two assistants are [[Farrah]] and [[Zeynep]]. She would like [[Sam|Sam]] to be more involved in politics, believing that Sam could make a real difference, because of her situation.
+Miriam Farris (she/her), Prime Minister of [Dawlat Al-Harir](Location/Dawlat%20Al-Harir.md), sister of [Musa](Person/Musa.md) and [Zhen](Person/Zhen.md). The people's elected official, overseeing civil law about the non-[council](Person/Groups/Council.md) ministries. Heiress to the [Chevalier Business Conglomerate](Person/Groups/Chevalier%20Business%20Conglomerate.md). She's gay. Her two assistants are [Farrah](Farrah) and [Zeynep](Zeynep). She would like [Sam](Person/Sam.md) to be more involved in politics, believing that Sam could make a real difference, because of her situation.
 
 She claims she ran for office to take responsibility for making the country better.
 
-She commissions a painted portrait of the family, including their deceased parents, from [[Mr Wahed]], now that it is seven years after their passing.
+She commissions a painted portrait of the family, including their deceased parents, from [Mr Wahed](Mr%20Wahed), now that it is seven years after their passing.
 
-Her and Musa's family's gods are [[Al Muqit and Al Baith|Al Muqit and Al Ba'ith]], cat gods.
+Her and Musa's family's gods are [Al Muqit and Al Ba'ith](Religion/Al%20Muqit%20and%20Al%20Baith.md), cat gods.
 
 ## References
 - Silent Songs 2
