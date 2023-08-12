@@ -42,9 +42,9 @@ Person/Group/Council.md
 Person/Group/Chevalier Business Conglomerate.md
 Person/Group/Al-Harir.md
 Person/Bhai.md
+README.md
 greenscharming.md
 Balqis.md
-index.md
 Location/Dawlat Al-Harir.md
 Location/Commercial/Sooq.md
 Location/Commercial/Nya-Nyails.md
