@@ -1,7 +1,7 @@
 # BUUZA!! Wiki
 [BUUZA!!](https://tapas.io/series/BUUZA/info) is a webcomic by Shazleen Khan. A misdialed number leads to an unexpected, long distance romance. BUUZA!! is a comic about found family, diaspora and religion, set in an urban fantasy 90's middle east and central asia.
 
-[This site](ifcoltransg.github.io/buuza-wiki/) is a wiki of sorts; to edit, send a pull request on [GitHub](https://github.com/IFcoltransG/buuza-wiki).
+[This site](https://ifcoltransg.github.io/buuza-wiki/) is a wiki of sorts; to edit, send a pull request on [GitHub](https://github.com/IFcoltransG/buuza-wiki).
 ## Cast
 - [Sam](Person/Sam.md) (she/her).
 - [Zach](Person/Zach.md) (he/him) flats with Sam.
