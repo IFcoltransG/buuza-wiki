@@ -1,18 +1,17 @@
 # greenscharming
-Greenscharming is an ability of Rasul to prevent weeds from growing back by blessing a place. The blessing they give follows:
+Greenscharming is an ability of [Rasul](Person/Group/Rasul.md) to prevent weeds from growing back by blessing a place. The blessing they give follows:
 
-> In the name of the just, her radiance a beacon in the night.
-> Bearing witness, her consort, the faithful son of the day.
+> In the name of The Just, her radiance a beacon in the night.
+> Bearing witness, her consort, The Faithful Son of the Day.
 > I seek protection for this land, O heavenly ones,
-> I beseech you, O emissary of light, the bringer of dawn,
-> To you, O emissary of sleep, guide through dusk,
+> I beseech you, O Emissary of Light, the Bringer of Dawn,
+> To you, O Emissary of Sleep, Guide through Dusk,
 > Messengers of the mother, of the beginning, and the end,
 > To hold this land still.
 > Ameen.
 
-Comparing the descriptions with the iconography on their [Deathhead](Deathhead.md) artworks, the radiant just could potentially be [As Sami](Religion/As%20Sami.md) or [Al 'Adl](Religion/Al%20Adl.md). The faithful son of day might be [Al 'Mumin](Religion/Al%20Mumin.md).
+Comparing the descriptions with the iconography on their [Deathhead](Culture/Deathhead.md) artworks, the Radiant Just could potentially be [Al 'Adl](Culture/Deity/Al%20Adl.md). The Faithful Son of Day might be [Al 'Mumin](Culture/Deity/Al%20Mumin.md). The Emissaries of Light and Sleep may be [An Nur and Al Hadi](Culture/Deity/An%20Nur%20and%20Al%20Hadi.md). In real-world Islam, their names are used to refer to justice, faith, light, and guidance, respectively, in the context of Allah.
 
 [Sam](Person/Sam.md) works as a greenscharmer, and she enlisted [Zach](Person/Zach.md) to help with it when performing the ritual.
-
 ## References
 - It's Faster With Two 1

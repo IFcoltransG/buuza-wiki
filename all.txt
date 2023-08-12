@@ -1,4 +1,15 @@
-Deathhead.md
+Culture/Deathhead.md
+Culture/manti.md
+Culture/Gods.md
+Culture/buuza dish.md
+Culture/Deity/As Sami.md
+Culture/Deity/Al Muqit and Al Baith.md
+Culture/Deity/Al Basir.md
+Culture/Deity/Al Khaaliq.md
+Culture/Deity/Al Adl.md
+Culture/Deity/Al Muhyi.md
+Culture/Deity/Al Mumin.md
+Culture/Deity/An Nur and Al Hadi.md
 Coup.md
 Person/Reyhan.md
 Person/Bai Ju.md
@@ -9,11 +20,6 @@ Person/Zarina.md
 Person/Zhen.md
 Person/Abdi.md
 Person/Sam.md
-Person/Groups/Rasul.md
-Person/Groups/design collective.md
-Person/Groups/Council.md
-Person/Groups/Chevalier Business Conglomerate.md
-Person/Groups/Al-Harir.md
 Person/Miss Hibaaq.md
 Person/Sams mother.md
 Person/Leila.md
@@ -30,51 +36,46 @@ Person/Aria.md
 Person/Harshul.md
 Person/Musa.md
 Person/Ahl Vahid.md
+Person/Group/Rasul.md
+Person/Group/design collective.md
+Person/Group/Council.md
+Person/Group/Chevalier Business Conglomerate.md
+Person/Group/Al-Harir.md
 Person/Bhai.md
-manti.md
 greenscharming.md
-Religion/As Sami.md
-Religion/Al Muqit and Al Baith.md
-Religion/Al Basir.md
-Religion/Al Khaaliq.md
-Religion/Al Adl.md
-Religion/Al Muhyi.md
-Religion/Al Mumin.md
-Religion/An Nur and Al Hadi.md
 Balqis.md
 index.md
-Location/Sooq.md
-Location/Nya-Nyails.md
 Location/Dawlat Al-Harir.md
-Location/Buuza.md
-Location/Regions/Alqadima.md
-Location/Regions/Western Turkistan.md
-Location/Regions/Anatolia.md
-Location/Regions/Bahr Aaqala.md
-Location/Regions/Durrani.md
-Location/Regions/Dilmun.md
-Location/Regions/Assyria.md
-Location/Regions/Kazakhstan.md
-Location/Regions/Rajastan.md
-Location/Regions/Parsi.md
-Location/Regions/Zazasthala.md
-Location/Regions/Eastern Turkistan.md
-Location/Regions/Abu Eankabut.md
-Location/Nyahs Shisha.md
-Location/Habibis.md
-Location/Salwa National Station.md
-Location/Metro Station.md
+Location/Commercial/Sooq.md
+Location/Commercial/Nya-Nyails.md
+Location/Commercial/Buuza.md
+Location/Commercial/Nyahs Shisha.md
+Location/Commercial/Habibis.md
+Location/Commercial/AA-Xerox.md
+Location/Commercial/Laundry 24.md
+Location/Commercial/Kat Pharma.md
+Location/Education/Salwa University.md
+Location/Education/University of Eastern Turkistan.md
 Location/Kashgar.md
 Location/Bird Mosque.md
 Location/Mongolia.md
-Location/AA-Xerox.md
-Location/Laundry 24.md
 Location/Konstantinyye.md
-Location/Salwa University.md
-Location/Bibi Hamida Street Station.md
+Location/Station/Salwa National Station.md
+Location/Station/Metro Station.md
+Location/Station/Bibi Hamida Street Station.md
+Location/Station/Shymkentnational Rail Station.md
+Location/Region/Alqadima.md
+Location/Region/Western Turkistan.md
+Location/Region/Anatolia.md
+Location/Region/Bahr Aaqala.md
+Location/Region/Durrani.md
+Location/Region/Dilmun.md
+Location/Region/Assyria.md
+Location/Region/Kazakhstan.md
+Location/Region/Rajastan.md
+Location/Region/Parsi.md
+Location/Region/Zazasthala.md
+Location/Region/Eastern Turkistan.md
+Location/Region/Abu Eankabut.md
 Location/Outside of Dalwat Al-Harir.md
 Location/Salwa.md
-Location/Kat Pharma.md
-Location/Shymkentnational Rail Station.md
-Location/University of Eastern Turkistan.md
-buuza dish.md
