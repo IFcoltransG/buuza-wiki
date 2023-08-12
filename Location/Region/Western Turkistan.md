@@ -1,5 +1,5 @@
 # Western Turkistan
-Western Turkistan is a region of [Dawlat Al-Harir](../Dawlat%20Al-Harir.md) located north of the centre. Borders [Easte[Eastern Turkistan](Location/Region/Eastern%20Turkistan.md)e east, [Kazak[Kazakhstan](Location/Region/Kazakhstan.md)e north, and [Durra[Durrani](Location/Region/Durrani.md)Parsi[Parsi](Location/Region/Parsi.md)e south.
+Western Turkistan is a region of [Dawlat Al-Harir](Location/Dawlat%20Al-Harir.md) located north of the centre. Borders [Eastern Turkistan](Location/Regions/Eastern%20Turkistan.md) to the east, [Kazakhstan](Location/Regions/Kazakhstan.md) to the north, and [Durrani](Location/Regions/Durrani.md) and [Parsi](Location/Regions/Parsi.md) to the south.
 
 ## References
 - Silent Songs 2

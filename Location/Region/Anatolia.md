@@ -1,5 +1,5 @@
 # Anatolia
-Anatolia is a region of [Dawlat Al-Harir](../Dawlat%20Al-Harir.md) to the north-west. Borders [Bahr [Bahr Aaqala](Location/Region/Bahr%20Aaqala.md)e east and [Assyr[Assyria](Location/Region/Assyria.md)e south.
+Anatolia is a region of [Dawlat Al-Harir](Location/Dawlat%20Al-Harir.md) to the north-west. Borders [Bahr Aaqala](Location/Regions/Bahr%20Aaqala.md) to the east and [Assyria](Location/Regions/Assyria.md) to the south.
 
 ## References
 - Silent Songs 2

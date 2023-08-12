@@ -1,5 +1,7 @@
 # Kazakhstan
-Kazakhstan is the northernmost region of [Dawlat Al-Harir](../Dawlat%20Al-Harir.md). [Sam](../../Person/Sam.md) has lived here. [Zarina](../../Person/Zarina.md) is representative. Holds special festivities for [Al Basir](../../Culture/Deity/Al%20Basir.md[Eastern Turkistan](Location/Region/Eastern%20Turkistan.md)urkis[Western Turkistan](Location/Region/Western%20Turkistan.md)urkistan.md) to the south.
+Kazakhstan is the northernmost region of [Dawlat Al-Harir](Location/Dawlat%20Al-Harir.md). [Sam](Person/Sam.md) has lived here. [Zarina](Person/Zarina.md) is representative. Holds special festivities for [Al Basir](Religion/Al%20Basir.md).
+
+Borders [Eastern Turkistan](Location/Regions/Eastern%20Turkistan.md) and [Western Turkistan](Location/Regions/Western%20Turkistan.md) to the south.
 
 ## References
 - Silent Songs 2

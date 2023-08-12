@@ -1,5 +1,5 @@
 # Bahr Aaqala
-Bahr Aaqala is a region of [Dawlat Al-Harir](../Dawlat%20Al-Harir.md) tucked into the north-west. Borders [Anato[Anatolia](Location/Region/Anatolia.md)e west, [Parsi[Parsi](Location/Region/Parsi.md)e south and [Assyr[Assyria](Location/Region/Assyria.md)e east.
+Bahr Aaqala is a region of [Dawlat Al-Harir](Location/Dawlat%20Al-Harir.md) tucked into the north-west. Borders [Anatolia](Location/Regions/Anatolia.md) to the west, [Parsi](Location/Regions/Parsi.md) to the south and [Assyria](Location/Regions/Assyria.md) to the east.
 
 Possibly called Bahr Aqala.
 
