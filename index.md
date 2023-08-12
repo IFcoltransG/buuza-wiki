@@ -10,4 +10,4 @@
 - [Musa](Person/Musa.md) (he/him) is Miriam's brother.
 
 ## Setting
-Our story opens in [Habibi's](Location/Commercial/Habibis.md) in [Salwa](Location/Salwa.md) in [Dilmun](Location/Region/Dilmun.md) in [Dawlat Al-Harir](Location/Dawlat%20Al-Harir.md).
+Our story opens outside [Habibi's Diner](Location/Commercial/Habibis.md) in the city of [Salwa](Location/Salwa.md), in the [Dilmun Region](Location/Region/Dilmun.md) of [Dawlat Al-Harir](Location/Dawlat%20Al-Harir.md).

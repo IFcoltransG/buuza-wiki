@@ -10,7 +10,7 @@ Greenscharming is an ability of [Rasul](Person/Group/Rasul.md) to prevent weeds 
 > To hold this land still.
 > Ameen.
 
-Comparing the descriptions with the iconography on their [Deathhead](Culture/Deathhead.md) artworks, the Radiant Just could potentially be [Al 'Adl](Culture/Deity/Al%20Adl.md). The Faithful Son of Day might be [Al 'Mumin](Culture/Deity/Al%20Mumin.md). The Emissaries of Light and Sleep may be [An Nur and Al Hadi](Culture/Deity/An%20Nur%20and%20Al%20Hadi.md). In real-world Islam, their names are used to refer to justice, faith, light, and guidance, respectively, in the context of Allah.
+Comparing the descriptions with the iconography on their [Deathhead](Culture/Deathhead.md) artworks, the Radiant Just could potentially be [Al 'Adl](Culture/Deity/Al%20Adl.md). The Faithful Son of Day might be [Al Mu'min](Culture/Deity/Al%20Mumin.md). The Emissaries of Light and Sleep may be [An Nur and Al Hadi](Culture/Deity/An%20Nur%20and%20Al%20Hadi.md). In real-world Islam, those four names are used to refer to justice, faith, light, and guidance, respectively, in the context of Allah.
 
 [Sam](Person/Sam.md) works as a greenscharmer, and she enlisted [Zach](Person/Zach.md) to help with it when performing the ritual.
 ## References
