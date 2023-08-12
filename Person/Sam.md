@@ -14,8 +14,10 @@ She's pan. [Emira](Person/Emira.md) calls her 'shifty rabbit'.
 - Lost \[like a Winter Moon\] 3
 - My Quiet Mountain Town 4
 - Backwash
+- Have You Ever Watched Your Mother Pray?
+- Pillowtalk
 - Bet On It 2, 7
-- The Juncture 2
+- The Juncture 3
 - Heaven Lies Beneath 1
 - A Silent Song 1
 - A Summons 3
