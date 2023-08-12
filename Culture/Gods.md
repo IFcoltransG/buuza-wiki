@@ -12,7 +12,7 @@
 - [Al Khaaliq](Culture/Deity/Al%20Khaaliq.md) (ram)
 - [Al Muhyi](Culture/Deity/Al%20Muhyi.md) (moth or butterfly)
 
-While their names are drawn from the names of Allah in real-world Islam, [the comic](index) is not about Islam itself.
+While their names are drawn from the names of Allah in real-world Islam, [the comic](README.md) is not about Islam itself.
 
 Prayer to the gods is used in [greenscharming](greenscharming.md).
 
