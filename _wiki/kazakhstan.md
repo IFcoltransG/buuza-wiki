@@ -2,9 +2,9 @@
 title: Kazakhstan
 tags: ['Location', 'Region']
 ---
-Kazakhstan is the northernmost region of [Dawlat Al-Harir](_wiki/dawlat-al-harir.md). [Sam](_wiki/sam.md) has lived here. [Zarina](_wiki/zarina.md) is representative, and she lives there with [Sam's mother](_wiki/sams-mother.md). Holds special festivities for [Al Basir](_wiki/al-basir.md).
+Kazakhstan is the northernmost region of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md). [Sam](/_wiki/sam.md) has lived here. [Zarina](/_wiki/zarina.md) is representative, and she lives there with [Sam's mother](/_wiki/sams-mother.md). Holds special festivities for [Al Basir](/_wiki/al-basir.md).
 
-Borders [Eastern Turkistan](_wiki/eastern-turkistan.md) and [Western Turkistan](_wiki/western-turkistan.md) to the south.
+Borders [Eastern Turkistan](/_wiki/eastern-turkistan.md) and [Western Turkistan](/_wiki/western-turkistan.md) to the south.
 
 ## References
 - Silent Songs 2
