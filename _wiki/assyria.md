@@ -2,7 +2,7 @@
 title: Assyria
 tags: ['Location', 'Region']
 ---
-Assyria is a region of [Dawlat Al-Harir](wiki/Dawlat%20al-harir.md) to the west. Borders [Anatolia](wiki/anatolia.md) and [Bahr Aaqala](wiki/bahr-aaqala.md) to the north, [Dilmun](wiki/dilmun.md) to the south and [Parsi](wiki/parsi.md) to the east.
+Assyria is a region of [Dawlat Al-Harir](_wiki/dawlat-al-harir.md) to the west. Borders [Anatolia](_wiki/anatolia.md) and [Bahr Aaqala](_wiki/bahr-aaqala.md) to the north, [Dilmun](_wiki/dilmun.md) to the south and [Parsi](_wiki/parsi.md) to the east.
 
 ## References
 - Silent Songs 2

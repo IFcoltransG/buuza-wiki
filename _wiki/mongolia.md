@@ -2,7 +2,7 @@
 title: Mongolia
 tags: ['Location']
 ---
-Where [Sam](wiki/sam.md) grew up and learnt to make [buuza](wiki/buuza-dish.md), the food. Seemingly [Outside of Dalwat Al-Harir](wiki/Outside%20of%20Dalwat%20al-harir.md). Possibly contains [Tsenkher Springs](wiki/Tsenkher%20Springs). Likely celebrates the moon festival for [Al 'Adl](wiki/al-adl.md) along with [Eastern Turkistan](wiki/eastern-turkistan.md).
+Where [Sam](_wiki/sam.md) grew up and learnt to make [buuza](_wiki/buuza-dish.md), the food. Seemingly [Outside of Dalwat Al-Harir](_wiki/Outside%20of%20Dalwat%20al-harir.md). Possibly contains [Tsenkher Springs](_wiki/Tsenkher%20Springs). Likely celebrates the moon festival for [Al 'Adl](_wiki/al-adl.md) along with [Eastern Turkistan](_wiki/eastern-turkistan.md).
 
 ## References
 - In the Land of Spider Silk 3

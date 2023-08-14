@@ -2,7 +2,7 @@
 title: Kashgar
 tags: ['Location']
 ---
-Kashgar is the city where [Zhen](wiki/zhen.md) lives. It is in [Eastern Turkistan](wiki/eastern-turkistan.md). It is probably a mountain town that doesn't snow much.
+Kashgar is the city where [Zhen](_wiki/zhen.md) lives. It is in [Eastern Turkistan](_wiki/eastern-turkistan.md). It is probably a mountain town that doesn't snow much.
 
 ## References
 - My Quiet Mountain Town 1
