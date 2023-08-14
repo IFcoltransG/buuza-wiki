@@ -9,7 +9,7 @@ permalink: /sitemap
 Here is a list of pages on this site.
 
 {% for page in site.wiki %}
-  - [{{page.title}}]({{ site.baseurl }}{{ page.url }})
+  - [{{page.title}}]({{ site.baseurl }}{{ page.url }}) <i>{{ page.tags | join: "/"}}</i>
 {% endfor %}
 
 <script>
