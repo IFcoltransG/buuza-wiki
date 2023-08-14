@@ -25,4 +25,3 @@ Comparing the descriptions with the iconography on their [Deathhead](/_wiki/deat
 [Sam](/_wiki/sam.md) works as a greenscharmer, and she enlisted [Zach](/_wiki/zach.md) to help with it when performing the ritual.
 ## References
 - It's Faster With Two 1
- With Two 1

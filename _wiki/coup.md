@@ -10,4 +10,3 @@ Non-comprehensive information relevant to the attempted assassination of [Daeng 
 - [Sabbah](/_wiki/sabbah.md) made a zine about secularist reform. (Silent Songs 1)
 - Miriam voted to hear the proposal to celebrate [Al Basir](/_wiki/al-basir.md) jointly with [As Sami](/_wiki/as-sami.md) in sermon. (The Space Between Us 1)
 - After Aria asked for a vote about whether to listen to [Zarina](/_wiki/zarina.md), Zarina was outvoted. (The Space Between Us 1)
- 1)

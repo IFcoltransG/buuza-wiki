@@ -10,4 +10,3 @@ Buuza Mongolian Diner is an upcoming [Mongolian](/_wiki/mongolia.md) restaurant 
 ## References
 - The Promise 3
 - Spring Moon at Midnight 1
-1

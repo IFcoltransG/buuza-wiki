@@ -6,4 +6,3 @@ Works with [Sabbah](/_wiki/sabbah.md) at [AA-Xerox](/_wiki/aa-xerox.md) in [Salw
 
 ## References
 - The Juncture 2
-2

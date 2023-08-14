@@ -7,4 +7,3 @@ A fashion and design collective near [Zhen](/_wiki/zhen.md)'s photography store,
 ## References
 - My Quiet Mountain Town 2
 - Blue Hour 2,3
-3

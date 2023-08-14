@@ -6,4 +6,3 @@ Mother of [Musa](/_wiki/musa.md) and [Miriam](/_wiki/miriam.md) to [Musa's fathe
 
 ## References
 - A Family Portrait 3
-ly Portrait 3

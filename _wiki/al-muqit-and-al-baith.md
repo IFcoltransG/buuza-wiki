@@ -12,4 +12,3 @@ A greeting spoken to cat [Rasul](/_wiki/rasul.md) goes "As-salamu alaykum Rasul 
 - Bet On It 4
 - A Family Portrait 2
 - Nighthawks 1
-1

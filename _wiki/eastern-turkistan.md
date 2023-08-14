@@ -7,4 +7,3 @@ Eastern Turkistan is a region of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md) to
 ## References
 - Spring Moon at Midnight 2
 - Silent Songs 2
-ngs 2

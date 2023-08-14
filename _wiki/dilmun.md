@@ -7,4 +7,3 @@ Dilmun is a region of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md) to the west. 
 ## References
 - In the Land of Spider Silk 3
 - Silent Songs 2
-2

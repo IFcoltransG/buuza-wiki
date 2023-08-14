@@ -16,4 +16,3 @@ In the real world, these regions are roughly centred around Oman, Yemen, Saudi A
 ## References
 - Silent Songs 1, 2
 - Good Morning Dawlat Al Harir 2
-l Harir 2

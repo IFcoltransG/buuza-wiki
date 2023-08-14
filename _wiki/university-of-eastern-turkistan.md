@@ -6,4 +6,3 @@ A university in [Eastern Turkistan](/_wiki/eastern-turkistan.md), where [Zhen](/
 
 ## References
 - Lost \[like a Winter Moon\] 1
-1

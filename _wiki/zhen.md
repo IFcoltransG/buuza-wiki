@@ -19,4 +19,3 @@ He is gay, also vegetarian. He is 24 years old.
 - The Perfect Gift 2
 - A Family Portrait 3
 - Pronouns page
-Pronouns page

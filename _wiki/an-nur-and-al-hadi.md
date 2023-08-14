@@ -14,4 +14,3 @@ An Nur's followers pray at Fajr, like the followers of [Al 'Mumin](/_wiki/al-mum
 - Silent Songs 2
 - The Promise 2
 - Nighthawks 1
-s 1

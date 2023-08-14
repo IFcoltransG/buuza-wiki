@@ -6,4 +6,3 @@ Durrani is a region of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md), fairly cent
 
 ## References
 - Silent Songs 2
-s 2

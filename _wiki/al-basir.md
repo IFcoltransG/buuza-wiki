@@ -8,4 +8,3 @@ Al Basir (he/him) is a [god](/_wiki/gods.md) associated with autumn, the brother
 ## References
 - Lost \[like a Winter Moon\] 3
 - Nighthawks 1
-s 1

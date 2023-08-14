@@ -10,4 +10,3 @@ Kashgar is the city where [Zhen](/_wiki/zhen.md) lives. It is in [Eastern Turkis
 - Silent Songs 2
 - Blue Hour 1
 - A Family Portrait 3
-3

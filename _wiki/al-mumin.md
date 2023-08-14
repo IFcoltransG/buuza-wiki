@@ -10,4 +10,3 @@ Al Mu'min may be the consort of [Al 'Adl](/_wiki/al-adl.md).
 - The Promise 2
 - Nighthawks 1
 - It's Faster With Two 1
-Faster With Two 1

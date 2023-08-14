@@ -7,4 +7,3 @@ Al Muhyi (they/them) is a [deity](/_wiki/gods.md), but even though their card gi
 ## References
 - A Summons 5
 - Nighthawks 1
-hawks 1

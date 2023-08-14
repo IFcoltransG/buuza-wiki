@@ -9,4 +9,3 @@ Sabbah is involved in a political group at [Salwa University](/_wiki/salwa-unive
 ## References
 - Silent Songs 1
 - The Juncture 2
-2

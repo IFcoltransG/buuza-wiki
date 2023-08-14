@@ -7,4 +7,3 @@ As-Sami (she/her) is a spider [goddess](/_wiki/gods.md) associated with autumn, 
 ## References
 - The Space Between Us 1
 - Nighthawks 1
-1

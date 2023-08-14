@@ -6,4 +6,3 @@ Alqadima is a region of south-western [Dawlat Al-Harir](/_wiki/dawlat-al-harir.m
 
 ## References
 - Silent Songs 2
-2

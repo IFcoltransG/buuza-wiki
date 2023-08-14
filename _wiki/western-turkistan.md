@@ -6,4 +6,3 @@ Western Turkistan is a region of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md) lo
 
 ## References
 - Silent Songs 2
-2

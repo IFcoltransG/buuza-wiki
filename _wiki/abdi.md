@@ -6,4 +6,3 @@ Abdi Al Hashmi from [Alqadima](/_wiki/alqadima.md) is an elected official on the
 
 ## References
 - The Space Between Us 1
-s 1

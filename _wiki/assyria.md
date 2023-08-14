@@ -6,4 +6,3 @@ Assyria is a region of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md) to the west.
 
 ## References
 - Silent Songs 2
-2

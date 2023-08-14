@@ -7,4 +7,3 @@ Parsi is a region of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md), located in th
 ## References
 - The Space Between Us 1
 - Silent Songs 2
-s 2

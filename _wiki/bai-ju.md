@@ -6,4 +6,3 @@ Bai Ju is a friend of [Zhen](/_wiki/zhen.md)'s. The met at an atalier. She now w
 
 ## References
 - My Quiet Mountain Town 2
-2

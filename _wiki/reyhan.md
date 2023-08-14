@@ -7,4 +7,3 @@ The designer for the [design collective](/_wiki/design-collective.md). She also 
 ## References
 - My Quiet Mountain Town 2
 - Blue Hour 3
-3
