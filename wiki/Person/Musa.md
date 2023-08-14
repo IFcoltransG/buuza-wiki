@@ -1,7 +1,7 @@
 # Musa
-Musa (he/him*) is a student in [Salwa University](Location/Education/Salwa%20University.md), and has siblings [Miriam](Person/Miriam.md) and [Zhen](Person/Zhen.md). Both Musa's parents, including [Musa's mother](Person/Musas%20mother.md), died in an accident. Musa does not date, being ace. Friends with [Zach](Person/Zach.md). Musa is from an immigrant family from [Outside of Dalwat Al-Harir](Location/Outside%20of%20Dalwat%20Al-Harir.md).
+Musa (he/him*) is a student in [Salwa University](wiki/Location/Education/Salwa%20University.md), and has siblings [Miriam](wiki/Person/Miriam.md) and [Zhen](wiki/Person/Zhen.md). Both Musa's parents, including [Musa's mother](wiki/Person/Musas%20mother.md), died in an accident. Musa does not date, being ace. Friends with [Zach](wiki/Person/Zach.md). Musa is from an immigrant family from [Outside of Dalwat Al-Harir](wiki/Location/Outside%20of%20Dalwat%20Al-Harir.md).
 
-Musa is religiously orthodox and pious, and against radical reform. He prays every day. Also aromantic and asexual. Musa and Miriam's family's gods are [Al Muqit and Al Ba'ith](Culture/Deity/Al%20Muqit%20and%20Al%20Baith.md), cat gods.
+Musa is religiously orthodox and pious, and against radical reform. He prays every day. Also aromantic and asexual. Musa and Miriam's family's gods are [Al Muqit and Al Ba'ith](wiki/Culture/Deity/Al%20Muqit%20and%20Al%20Baith.md), cat gods.
 
 Musa is about 188 cm tall and has cochlear implants.
 

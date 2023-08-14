@@ -1,5 +1,5 @@
 # Salwa
-A city in [Dilmun](Location/Region/Dilmun.md), which is within [Dawlat Al-Harir](Location/Dawlat%20Al-Harir.md), nearby to [Abu Eankabut](Location/Region/Abu%20Eankabut.md). The holy site [Dayira Sharif](Dayira%20Sharif) is eastward. 60% of Salwa is below the poverty line.
+A city in [Dilmun](wiki/Location/Region/Dilmun.md), which is within [Dawlat Al-Harir](wiki/Location/Dawlat%20Al-Harir.md), nearby to [Abu Eankabut](wiki/Location/Region/Abu%20Eankabut.md). The holy site [Dayira Sharif](wiki/Dayira%20Sharif) is eastward. 60% of Salwa is below the poverty line.
 
 Has a marina in the expensive part of town.
 
