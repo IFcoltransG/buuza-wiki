@@ -11,7 +11,7 @@ tags: ['Culture']
 - [Al Mu'min](/_wiki/al-mumin.md) (cat or dog, consort of Al 'Adl)
 ## Winter
 - [Al 'Adl](/_wiki/al-adl.md) (rabbit, has Al Mu'min as consort)
-- [An Nur and Al Hadi](/_wiki/an-nur-and-al-hadi.md) ([[Bird|birds]])
+- [An Nur and Al Hadi](/_wiki/an-nur-and-al-hadi.md) ([birds](/_wiki/bird.md))
 ## Spring
 - [Al Khaaliq](/_wiki/al-khaaliq.md) (ram)
 - [Al Muhyi](/_wiki/al-muhyi.md) (moth or butterfly)

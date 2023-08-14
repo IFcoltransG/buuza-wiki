@@ -3,7 +3,7 @@ title: Dawlat Al-Harir
 tags: ['Location']
 ---
 The Holy Dawlat Al-Harir is a country ruled by [Aria](/_wiki/aria.md) from the [Al-Harir](/_wiki/al-harir.md) dynasty.
-It borders [the region around it](/_wiki/Outside%20of%20Dalwat%20al-harir.md).
+It borders [the region around it](/_wiki/outside-of-dalwat-al-harir.md).
 
 Main provinces are its capital [Abu Eankabut](/_wiki/abu-eankabut.md), [Dilmun](/_wiki/dilmun.md), and [Alqadima](/_wiki/alqadima.md).
 Dalwat Al-Harir is a theocratic autocracy under a divine oracle, with a [Council](/_wiki/council.md), and an elected Prime Minister, [Miriam](/_wiki/miriam.md). It uses the Dinar as currency.
