@@ -1,8 +1,9 @@
 <script>
   // this should really be something done statically in Jekyll, rather than with javascript
   for (let tag of document.getElementsByTagName("a")) {
-    if (tag.href.includes("_wiki")) {
-      tag.href = ("{{ site.baseurl }}/" + tag.getAttribute("href")).replace("//", "/");
+    let tagName = tag.getAttribute("href");
+    if (tagName.includes("_wiki") && !tagName.startsWith("http")) {
+      tag.href = ("{{ site.baseurl }}/" + tagName).replace("//", "/");
     }
   }
 </script>
