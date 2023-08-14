@@ -8,7 +8,7 @@ baseurl:             '/buuza-wiki'
 # You may also need to set the URL depending on your username
 url:                 'https://ifcoltransg.github.io'
 # And the edit file base url if you want people to edit pages
-new_file_base: "https://github.com/ifcoltransg/buuza-wiki/edit/main"
+edit_file_base: "https://github.com/ifcoltransg/buuza-wiki/edit/main"
 # And the new file base url if you want people to create new pages
 new_file_base: "https://github.com/ifcoltransg/buuza-wiki/new/main?filename="
 
