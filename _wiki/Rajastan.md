@@ -2,8 +2,9 @@
 title: Rajastan
 tags: ['Location', 'Region']
 ---
-Rajastan is a region of [Dawlat Al-Harir](wiki/Dawlat%20Al-Harir.md) to the south-east. Borders [Zazasthala](wiki/Zazasthala.md) to the east, [Durrani](wiki/Durrani.md) to the west and [Eastern Turkistan](wiki/Eastern%20Turkistan.md) to the north. Holy family representative is [Shakur](wiki/Shakur.md).
+Rajastan is a region of [Dawlat Al-Harir](wiki/Dawlat%20al-harir.md) to the south-east. Borders [Zazasthala](wiki/zazasthala.md) to the east, [Durrani](wiki/durrani.md) to the west and [Eastern Turkistan](wiki/eastern-turkistan.md) to the north. Holy family representative is [Shakur](wiki/shakur.md).
 
 ## References
 - The Space Between Us 1
 - Silent Songs 2
+2

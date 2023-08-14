@@ -2,7 +2,7 @@
 title: Habibi's
 tags: ['Location', 'Commercial']
 ---
-Habibi's Diner is a breakfast and lunch diner in [Salwa](wiki/Salwa.md) where [Sam](wiki/Sam.md) and [Zach](wiki/Zach.md) met each other, and later where they both met [Musa](wiki/Musa.md). It is a Thursday tradition for them three to watch soap operas there on the TV.
+Habibi's Diner is a breakfast and lunch diner in [Salwa](wiki/salwa.md) where [Sam](wiki/sam.md) and [Zach](wiki/zach.md) met each other, and later where they both met [Musa](wiki/musa.md). It is a Thursday tradition for them three to watch soap operas there on the TV.
 
 ## References
 - New Year's Eve, 1997 1

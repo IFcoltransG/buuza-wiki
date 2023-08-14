@@ -2,7 +2,8 @@
 title: Durrani
 tags: ['Location', 'Region']
 ---
-Durrani is a region of [Dawlat Al-Harir](wiki/Dawlat%20Al-Harir.md), fairly centrally located. Borders [Eastern Turkistan](wiki/Eastern%20Turkistan.md) and [Western Turkistan](wiki/Western%20Turkistan.md) to the north, [Rajastan](wiki/Rajastan.md) to the east and [Parsi](wiki/Parsi.md) to the west.
+Durrani is a region of [Dawlat Al-Harir](wiki/Dawlat%20al-harir.md), fairly centrally located. Borders [Eastern Turkistan](wiki/eastern-turkistan.md) and [Western Turkistan](wiki/western-turkistan.md) to the north, [Rajastan](wiki/rajastan.md) to the east and [Parsi](wiki/parsi.md) to the west.
 
 ## References
 - Silent Songs 2
+s 2

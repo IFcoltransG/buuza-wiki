@@ -2,7 +2,8 @@
 title: Abdi
 tags: ['Person']
 ---
-Abdi Al Hashmi from [Alqadima](wiki/Alqadima.md) is an elected official on the [Council](wiki/Council.md). He supports [Zarina](wiki/Zarina.md)'s proposal to have a joint sermon for [Al Basir](wiki/Al%20Basir.md) alongside [As Sami](wiki/As%20Sami.md)
+Abdi Al Hashmi from [Alqadima](wiki/alqadima.md) is an elected official on the [Council](wiki/council.md). He supports [Zarina](wiki/zarina.md)'s proposal to have a joint sermon for [Al Basir](wiki/al-basir.md) alongside [As Sami](wiki/as-sami.md)
 
 ## References
 - The Space Between Us 1
+s 1

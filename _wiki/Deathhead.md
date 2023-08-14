@@ -7,22 +7,24 @@ Deathhead is a two-player card game played with four seasons (suits). Each seaso
 Play begins by splitting the deck into three: one for each player, and one pile on the table. If any player does not have all four seasons in their hand, they say "out of season" at the start of the game.
 Each round, one player (the dealer) chooses a card from their hand and holds it face down, announcing the season. The other player must put down a card from the same season if they can. Then the top card of the deck on the table is revealed. The player with the highest card takes the set and keeps it separate from their hand; this set will count against their score. If the deck has the highest card, or the other player can't put down a card in season, the dealer takes the set. Probably if you can't play a card in season, you can just play any card you like.
 
-- [Sam](wiki/Sam.md) almost never loses at the game, except to [Aria](wiki/Aria.md).
+- [Sam](wiki/sam.md) almost never loses at the game, except to [Aria](wiki/aria.md).
 
 Some people use the deck to divine the future.
 ## Face Cards
 ### Autumn
-- [As Sami](wiki/As%20Sami.md)
-- [Al Basir](wiki/Al%20Basir.md) (her brother)
+- [As Sami](wiki/as-sami.md)
+- [Al Basir](wiki/al-basir.md) (her brother)
 ### Summer
-- [Al Muqit and Al Ba'ith](wiki/Al%20Muqit%20and%20Al%20Baith.md)
-- [Al Mu'min](wiki/Al%20Mumin.md)
+- [Al Muqit and Al Ba'ith](wiki/al-muqit-and-al-baith.md)
+- [Al Mu'min](wiki/al-mumin.md)
 ### Winter
-- [Al 'Adl](wiki/Al%20Adl.md)
-- [An Nur and Al Hadi](wiki/An%20Nur%20and%20Al%20Hadi.md)
+- [Al 'Adl](wiki/al-adl.md)
+- [An Nur and Al Hadi](wiki/an-nur-and-al-hadi.md)
 ### Spring
-- [Al Khaaliq](wiki/Al%20Khaaliq.md)
-- [Al Muhyi](wiki/Al%20Muhyi.md) (this card is known as the Deathhead, because it's worth eleven points, which is dangerously high)
+- [Al Khaaliq](wiki/al-khaaliq.md)
+- [Al Muhyi](wiki/al-muhyi.md) (this card is known as the Deathhead, because it's worth eleven points, which is dangerously high)
 
 ## References
+- Nighthawks 1
+# References
 - Nighthawks 1

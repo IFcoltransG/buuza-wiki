@@ -2,9 +2,9 @@
 title: Musa
 tags: ['Person']
 ---
-Musa (he/him*) is a student in [Salwa University](wiki/Salwa%20University.md), and has siblings [Miriam](wiki/Miriam.md) and [Zhen](wiki/Zhen.md). Both Musa's parents, including [Musa's mother](wiki/Musas%20mother.md), died in an accident. Musa does not date, being ace. Friends with [Zach](wiki/Zach.md). Musa is from an immigrant family from [Outside of Dalwat Al-Harir](wiki/Outside%20of%20Dalwat%20Al-Harir.md).
+Musa (he/him*) is a student in [Salwa University](wiki/salwa-university.md), and has siblings [Miriam](wiki/miriam.md) and [Zhen](wiki/zhen.md). Both Musa's parents, including [Musa's mother](wiki/musas-mother.md), died in an accident. Musa does not date, being ace. Friends with [Zach](wiki/zach.md). Musa is from an immigrant family from [Outside of Dalwat Al-Harir](wiki/Outside%20of%20Dalwat%20al-harir.md).
 
-Musa is religiously orthodox and pious, and against radical reform. He prays every day. Also aromantic and asexual. Musa and Miriam's family's gods are [Al Muqit and Al Ba'ith](wiki/Al%20Muqit%20and%20Al%20Baith.md), cat gods.
+Musa is religiously orthodox and pious, and against radical reform. He prays every day. Also aromantic and asexual. Musa and Miriam's family's gods are [Al Muqit and Al Ba'ith](wiki/al-muqit-and-al-baith.md), cat gods.
 
 Musa is about 188 cm tall and has cochlear implants.
 
@@ -16,3 +16,4 @@ Musa is about 188 cm tall and has cochlear implants.
 - Third Time Lucky 4
 - A Family Portrait 3
 - A Summons 2
+A Summons 2

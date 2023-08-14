@@ -2,7 +2,7 @@
 title: Laundry 24
 tags: ['Location', 'Commercial']
 ---
-[Sam](wiki/Sam.md) and [Zach](wiki/Zach.md) don't have a washer in their flat, so they have to use a laundromat in [Salwa](wiki/Salwa.md).
+[Sam](wiki/sam.md) and [Zach](wiki/zach.md) don't have a washer in their flat, so they have to use a laundromat in [Salwa](wiki/salwa.md).
 
 ## References
 - Lazy Saturday
