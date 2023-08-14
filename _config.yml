@@ -28,7 +28,7 @@ embed_tweets: false
 
 # Set to `true` to detect links from wiki pages that don't
 # lead anywhere, and convert them to links to create a page
-style_nonexistent_links: true
+style_nonexistent_links: false
 
 permalink:           pretty
 relative_permalinks: false
