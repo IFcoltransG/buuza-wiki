@@ -1,81 +1,81 @@
-Culture/Deathhead.md
-Culture/manti.md
-Culture/Gods.md
-Culture/buuza dish.md
-Culture/Deity/As Sami.md
-Culture/Deity/Al Muqit and Al Baith.md
-Culture/Deity/Al Basir.md
-Culture/Deity/Al Khaaliq.md
-Culture/Deity/Al Adl.md
-Culture/Deity/Al Muhyi.md
-Culture/Deity/Al Mumin.md
-Culture/Deity/An Nur and Al Hadi.md
-Coup.md
-Person/Reyhan.md
-Person/Bai Ju.md
-Person/Sabbah.md
-Person/Emira.md
-Person/Zach.md
-Person/Zarina.md
-Person/Zhen.md
-Person/Abdi.md
-Person/Sam.md
-Person/Miss Hibaaq.md
-Person/Sams mother.md
-Person/Leila.md
-Person/Miriam.md
-Person/Nithiya.md
-Person/Patime.md
-Person/Cid.md
-Person/Esfahani.md
-Person/Shakur.md
-Person/Musas mother.md
-Person/Mr Ahmadi.md
-Person/Rumeha.md
-Person/Aria.md
-Person/Harshul.md
-Person/Musa.md
-Person/Ahl Vahid.md
-Person/Group/Rasul.md
-Person/Group/design collective.md
-Person/Group/Council.md
-Person/Group/Chevalier Business Conglomerate.md
-Person/Group/Al-Harir.md
-Person/Bhai.md
+wiki/Culture/Deathhead.md
+wiki/Culture/manti.md
+wiki/Culture/Gods.md
+wiki/Culture/buuza dish.md
+wiki/Culture/Deity/As Sami.md
+wiki/Culture/Deity/Al Muqit and Al Baith.md
+wiki/Culture/Deity/Al Basir.md
+wiki/Culture/Deity/Al Khaaliq.md
+wiki/Culture/Deity/Al Adl.md
+wiki/Culture/Deity/Al Muhyi.md
+wiki/Culture/Deity/Al Mumin.md
+wiki/Culture/Deity/An Nur and Al Hadi.md
+wiki/Coup.md
+wiki/Person/Reyhan.md
+wiki/Person/Bai Ju.md
+wiki/Person/Sabbah.md
+wiki/Person/Emira.md
+wiki/Person/Zach.md
+wiki/Person/Zarina.md
+wiki/Person/Zhen.md
+wiki/Person/Abdi.md
+wiki/Person/Sam.md
+wiki/Person/Miss Hibaaq.md
+wiki/Person/Sams mother.md
+wiki/Person/Leila.md
+wiki/Person/Miriam.md
+wiki/Person/Nithiya.md
+wiki/Person/Patime.md
+wiki/Person/Cid.md
+wiki/Person/Esfahani.md
+wiki/Person/Shakur.md
+wiki/Person/Musas mother.md
+wiki/Person/Mr Ahmadi.md
+wiki/Person/Rumeha.md
+wiki/Person/Aria.md
+wiki/Person/Harshul.md
+wiki/Person/Musa.md
+wiki/Person/Ahl Vahid.md
+wiki/Person/Group/Rasul.md
+wiki/Person/Group/design collective.md
+wiki/Person/Group/Council.md
+wiki/Person/Group/Chevalier Business Conglomerate.md
+wiki/Person/Group/Al-Harir.md
+wiki/Person/Bhai.md
+wiki/greenscharming.md
+wiki/Balqis.md
+wiki/Location/Dawlat Al-Harir.md
+wiki/Location/Commercial/Sooq.md
+wiki/Location/Commercial/Nya-Nyails.md
+wiki/Location/Commercial/Buuza.md
+wiki/Location/Commercial/Nyahs Shisha.md
+wiki/Location/Commercial/Habibis.md
+wiki/Location/Commercial/AA-Xerox.md
+wiki/Location/Commercial/Laundry 24.md
+wiki/Location/Commercial/Kat Pharma.md
+wiki/Location/Education/Salwa University.md
+wiki/Location/Education/University of Eastern Turkistan.md
+wiki/Location/Kashgar.md
+wiki/Location/Bird Mosque.md
+wiki/Location/Mongolia.md
+wiki/Location/Konstantinyye.md
+wiki/Location/Station/Salwa National Station.md
+wiki/Location/Station/Metro Station.md
+wiki/Location/Station/Bibi Hamida Street Station.md
+wiki/Location/Station/Shymkentnational Rail Station.md
+wiki/Location/Region/Alqadima.md
+wiki/Location/Region/Western Turkistan.md
+wiki/Location/Region/Anatolia.md
+wiki/Location/Region/Bahr Aaqala.md
+wiki/Location/Region/Durrani.md
+wiki/Location/Region/Dilmun.md
+wiki/Location/Region/Assyria.md
+wiki/Location/Region/Kazakhstan.md
+wiki/Location/Region/Rajastan.md
+wiki/Location/Region/Parsi.md
+wiki/Location/Region/Zazasthala.md
+wiki/Location/Region/Eastern Turkistan.md
+wiki/Location/Region/Abu Eankabut.md
+wiki/Location/Outside of Dalwat Al-Harir.md
+wiki/Location/Salwa.md
 README.md
-greenscharming.md
-Balqis.md
-Location/Dawlat Al-Harir.md
-Location/Commercial/Sooq.md
-Location/Commercial/Nya-Nyails.md
-Location/Commercial/Buuza.md
-Location/Commercial/Nyahs Shisha.md
-Location/Commercial/Habibis.md
-Location/Commercial/AA-Xerox.md
-Location/Commercial/Laundry 24.md
-Location/Commercial/Kat Pharma.md
-Location/Education/Salwa University.md
-Location/Education/University of Eastern Turkistan.md
-Location/Kashgar.md
-Location/Bird Mosque.md
-Location/Mongolia.md
-Location/Konstantinyye.md
-Location/Station/Salwa National Station.md
-Location/Station/Metro Station.md
-Location/Station/Bibi Hamida Street Station.md
-Location/Station/Shymkentnational Rail Station.md
-Location/Region/Alqadima.md
-Location/Region/Western Turkistan.md
-Location/Region/Anatolia.md
-Location/Region/Bahr Aaqala.md
-Location/Region/Durrani.md
-Location/Region/Dilmun.md
-Location/Region/Assyria.md
-Location/Region/Kazakhstan.md
-Location/Region/Rajastan.md
-Location/Region/Parsi.md
-Location/Region/Zazasthala.md
-Location/Region/Eastern Turkistan.md
-Location/Region/Abu Eankabut.md
-Location/Outside of Dalwat Al-Harir.md
-Location/Salwa.md
