@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+}
+
+body {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: calc(100% - 4vh * 2);
+  // make sure the 4vh is kept up to date with the body margin
+}
+
+.wrapper {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  /* Content absorbs remaining space, footer auto-sized */
+}
+

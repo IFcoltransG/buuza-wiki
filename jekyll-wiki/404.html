@@ -1,0 +1,39 @@
+---
+permalink: /404.html
+layout: default
+title: "404"
+id: "not-found"
+---
+
+<div>
+  <h1><span id="page-name">Page</span> not found. 🙈</h1>
+  <p>This page doesn't exist yet. <a href="{{ site.baseurl }}/">Return home</a> to get a fresh start.</p>
+  <div id="create-link-wrapper" hidden>Or <a id="create-link" href="{{ site.new_file_base }}">create this page.</a></div>
+</div>
+
+<script>
+  // Change 404 page at runtime based on url
+
+  function createLink(wrapper, link) {
+    let location = window.location.pathname;
+    location = location.replace("{{ site.baseurl }}", "").replace("{{ site.url }}", "");
+    location = location.replace("//", "/");
+    location = location.replace(/^\//, "");
+    if (!location.includes(".")) {
+      location += ".md";
+    }
+    if (!location.includes("_wiki/")) {
+      location = "_pages/" + location;
+    }
+    link.href += location;
+    wrapper.hidden = false;
+  }
+
+  window.addEventListener("load", (event) => {
+    let wrapper = document.getElementById("create-link-wrapper");
+    let link = document.getElementById("create-link");
+    createLink(wrapper, link);
+    let name = document.getElementById("page-name");
+    name.innerHTML = `"${window.location.pathname.split("/").pop().replace(/\.md$/, "")}"`;
+  });
+</script>
