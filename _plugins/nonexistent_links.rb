@@ -41,7 +41,6 @@ def check_links(doc)
       end
     end
     if doc.content != parsed_doc.to_html
-      puts("Overwriting ", doc.destination(doc.site.dest))
       File.write(doc.destination(doc.site.dest), parsed_doc.to_html, :mode => 'wb')
     end
     # puts(doc.output)
