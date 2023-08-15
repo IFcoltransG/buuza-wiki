@@ -16,7 +16,7 @@ He watches soaps like 'Beautific Generation' and 'The Poet'. He's also trans and
 - New Year's Day, 1998 2
 - Backwash
 - Open Invitation
-- The Juncture, 2
+- The Juncture 2
 - Heaven Lies Beneath 1
 - The Perfect Gift 1, 2
 - Pronouns page
