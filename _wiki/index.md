@@ -1,8 +1,8 @@
 ---
-layout: note
-title: Main Page
 id: main-page
+title: Main Page
 permalink: /
+tags: ['Special']
 ---
 
 # BUUZA!! Wiki

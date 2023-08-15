@@ -6,7 +6,7 @@ This repo contains the wiki for the webcomic [BUUZA!!](https://tapas.io/series/B
 > BUUZA!! is a comic about found family, diaspora and religion, set in an urban fantasy 90's Middle East and Central Asia.
 
 ## Reading the wiki
-You can browse the pages in the `/wiki` directory (as well as `_pages` which contains the [Main Page](/_pages/index.md)). However for best experience, check out the [website for the wiki](https://ifcoltransg.github.io/buuza-wiki/).
+You can browse the pages in the `/wiki` directory (as well as `_pages` which contains the [Main Page](/_wiki/index.md)). However for best experience, check out the [website for the wiki](https://ifcoltransg.github.io/buuza-wiki/).
 
 ## Editing the wiki
 To edit a page, simply send make the change, then send a pull request via GitHub.
