@@ -11,12 +11,12 @@ permalink: /
 
 [This site](https://ifcoltransg.github.io/buuza-wiki/) is a wiki of sorts; to edit, send a pull request on [GitHub](https://github.com/IFcoltransG/buuza-wiki).
 ## Cast
-- [Sam](sam) (she/her).
-- [Zach](zach) (he/him) flats with Sam.
-- [Zhen](zhen) (he/him) talks to Zach on the phone.
-- [Aria](aria) (he/they) is the Divine Oracle.
-- [Miriam](miriam) (she/her) the Prime Minister.
-- [Musa](musa) (he/him) is Miriam's brother.
+- [Sam](/_wiki/sam.md) (she/her).
+- [Zach](/_wiki/zach.md) (he/him) flats with Sam.
+- [Zhen](/_wiki/zhen.md) (he/him) talks to Zach on the phone.
+- [Aria](/_wiki/aria.md) (he/they) is the Divine Oracle.
+- [Miriam](/_wiki/miriam.md) (she/her) the Prime Minister.
+- [Musa](/_wiki/musa.md) (he/him) is Miriam's brother.
 
 ## Setting
 Our story opens outside [Habibi's Diner](habibis) in the city of [Salwa](salwa), in the [Dilmun Region](dilmun) of [Dawlat Al-Harir](dawlat-al-harir).
