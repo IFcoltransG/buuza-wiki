@@ -19,4 +19,4 @@ permalink: /
 - [Musa](/_wiki/musa.md) (he/him) is Miriam's brother.
 
 ## Setting
-Our story opens outside [Habibi's Diner](habibis) in the city of [Salwa](salwa), in the [Dilmun Region](dilmun) of [Dawlat Al-Harir](dawlat-al-harir).
+Our story opens outside [Habibi's Diner](/_wiki/habibis.md) in the city of [Salwa](/_wiki/salwa.md), in the [Dilmun Region](/_wiki/dilmun.md) of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md).
