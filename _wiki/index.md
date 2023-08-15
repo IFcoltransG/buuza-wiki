@@ -3,6 +3,7 @@ id: main-page
 title: Main Page
 permalink: /
 tags: ['Special']
+no-backlinks: true
 ---
 
 # BUUZA!! Wiki
