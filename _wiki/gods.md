@@ -16,7 +16,7 @@ tags: ['Culture']
 - [Al Khaaliq](/_wiki/al-khaaliq.md) (ram)
 - [Al Muhyi](/_wiki/al-muhyi.md) (moth or butterfly)
 
-While their names are drawn from the names of Allah in real-world Islam, the comic is not about Islam itself.
+While their names are drawn from the names of Allah in real-world Islam, the [comic](/_wiki/index.md) is not about Islam itself.
 
 Prayer to the gods is used in [greenscharming](/_wiki/greenscharming.md).
 
