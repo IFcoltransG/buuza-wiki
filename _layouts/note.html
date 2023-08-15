@@ -18,6 +18,11 @@ layout: default
     </content>
 
     <side style="font-size: 0.9em">
+      <label>Search wiki: <input type="text" id="search-input"></label>
+      <p>
+      <p>
+      <div id="results-container" style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);"></div>
+
       <!-- Delete this line to disable link to edit: -->
       <p><a href="{{ site.edit_file_base }}/{{ page.path }}">Edit this page</a></p>
       <p><a href="{{ site.baseurl }}/sitemap#random">Random page</a></p>
@@ -46,3 +51,4 @@ layout: default
 </article>
 
 <hr>
+{% include search.html %}
