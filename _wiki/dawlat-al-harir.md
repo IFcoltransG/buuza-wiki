@@ -11,7 +11,7 @@ Dalwat Al-Harir is a theocratic autocracy under a divine oracle, with a [Council
 Exports textiles. Does agriculture.
 
 Contains [Abu Eankabut](/_wiki/abu-eankabut.md), [Alqadima](/_wiki/alqadima.md), [Dilmun](/_wiki/dilmun.md), [Assyria](/_wiki/assyria.md), [Anatolia](/_wiki/anatolia.md), [Bahr Aaqala](/_wiki/bahr-aaqala.md), [Parsi](/_wiki/parsi.md), [Durrani](/_wiki/durrani.md), [Western Turkistan](/_wiki/western-turkistan.md), [Kazakhstan](/_wiki/kazakhstan.md), [Eastern Turkistan](/_wiki/eastern-turkistan.md), [Rajastan](/_wiki/rajastan.md), [Zazasthala](/_wiki/zazasthala.md).
-In the real world, these regions are roughly centred around Oman, Yemen, Saudi Arabia, Syria, Turkey, Armenia, western Iran, eastern Iran, Turkmenistan, Uzbekistan, Tajikistan, Rajasthan (India) and Nepal, respectively.
+In the real world, these fictional regions would be roughly centred around Oman, Yemen, Saudi Arabia, Syria, Turkey, Armenia, western Iran, eastern Iran, Turkmenistan, Uzbekistan, Tajikistan, Rajasthan (India) and Nepal, respectively.
 
 ## References
 - Silent Songs 1, 2

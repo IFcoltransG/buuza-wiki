@@ -6,6 +6,8 @@ Kazakhstan is the northernmost region of [Dawlat Al-Harir](/_wiki/dawlat-al-hari
 
 Borders [Eastern Turkistan](/_wiki/eastern-turkistan.md) and [Western Turkistan](/_wiki/western-turkistan.md) to the south.
 
+It is of course a fictional region, and does not correspond exactly to the real world Kazakhstan.
+
 ## References
 - Silent Songs 2
 - The Space Between Us 1
