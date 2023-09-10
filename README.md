@@ -1,5 +1,5 @@
-# BUUZA!! Wiki
-This repo contains the wiki for the webcomic [BUUZA!!](https://tapas.io/series/BUUZA/info) by [Shazleen Khan](https://linktr.ee/neonlanterns.jpeg).
+# [BUUZA!! Wiki](https://ifcoltransg.github.io/buuza-wiki/)
+This repo contains the [wiki](https://ifcoltransg.github.io/buuza-wiki/) for the webcomic [BUUZA!!](https://tapas.io/series/BUUZA/info) by [Shazleen Khan](https://linktr.ee/neonlanterns.jpeg).
 
 > A misdialed number leads to an unexpected, long distance romance.
 >
