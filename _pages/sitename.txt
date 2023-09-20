@@ -1,0 +1,5 @@
+---
+permalink: sitename.txt
+layout: static
+---
+Buuza-Wiki
