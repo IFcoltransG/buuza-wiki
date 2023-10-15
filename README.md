@@ -9,7 +9,7 @@ This repo contains the [wiki](https://ifcoltransg.github.io/buuza-wiki/) for the
 You can browse the pages in the `/wiki` directory (as well as `_pages` which contains the [Main Page](/_wiki/index.md)). However for best experience, check out the [website for the wiki](https://ifcoltransg.github.io/buuza-wiki/).
 
 ## Editing the wiki
-To edit a page, simply send make the change, then send a pull request via GitHub.
+To edit a page, simply make the change, then send a pull request via GitHub.
 
 You can use [GitHub-Flavored Markdown formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on each page.
 
