@@ -6,7 +6,7 @@ Miriam Farris (she/her), Prime Minister of [Dawlat Al-Harir](/_wiki/dawlat-al-ha
 
 She claims she ran for office to take responsibility for making the country better.
 
-She commissions a painted portrait of the family, including their deceased parents, from [Mr Wahed](/_wiki/mr-wahed.md), now that it is seven years after their passing.
+She commissions a painted portrait of the family, including their deceased parents, from [Mr Wahed](/_wiki/mr-wahed.md), now that it is seven years after their passing. She wears [her mother's](/_wiki/musas-mother.md) necklace.
 
 Her and Musa's family's gods are [Al Muqit and Al Ba'ith](/_wiki/al-muqit-and-al-baith.md), cat gods.
 
