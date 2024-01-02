@@ -10,21 +10,24 @@ Each round, one player (the dealer) chooses a card from their hand and holds it 
 [Sam](/_wiki/sam.md) almost never loses at the game, except to [Aria](/_wiki/aria.md).
 
 Some people use the deck to divine the future.
+
 ## Face Cards
+
 ### Autumn
 - [As Sami](/_wiki/as-sami.md)
 - [Al Basir](/_wiki/al-basir.md) (her brother)
+
 ### Summer
 - [Al Muqit and Al Ba'ith](/_wiki/al-muqit-and-al-baith.md)
 - [Al Mu'min](/_wiki/al-mumin.md)
+
 ### Winter
 - [Al 'Adl](/_wiki/al-adl.md)
 - [An Nur and Al Hadi](/_wiki/an-nur-and-al-hadi.md)
+
 ### Spring
 - [Al Khaaliq](/_wiki/al-khaaliq.md)
 - [Al Muhyi](/_wiki/al-muhyi.md) (this card is known as the Deathhead, because it's worth eleven points, which is dangerously high)
 
 ## References
-- Nighthawks 1
-# References
 - Nighthawks 1
