@@ -6,4 +6,4 @@ A fashion magazine that [Zhen](/_wiki/zhen.md)'s collective got into (along with
 
 ## References
 - New Year's Eve, 1997 2
-- Juncture 1, 2
+- The Juncture 1, 2
