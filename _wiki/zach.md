@@ -8,7 +8,7 @@ Can make [manti](/_wiki/manti.md), which he learnt from [his mother](/_wiki/leil
 
 His work number is 965-6969-777. After [Zhen](/_wiki/zhen.md) called that number mistakenly, the two fell in love. He first met [Sam](/_wiki/sam.md) at [Habibi's](/_wiki/habibis.md), then later they both met [Musa](/_wiki/musa.md) there.
 
-He studied mathematics for a year in [Salwa University](/_wiki/salwa-university.md), which [Rumeha](/_wiki/rumeha.md) also attended. He is 21 years old.
+He studied mathematics for a year in [Salwa University](/_wiki/salwa-university.md), which [Rumeha](/_wiki/rumeha.md) also attended. He is 21 years old. Zach follows [Al Hadi](/_wiki/an-nur-and-al-hadi.md).
 
 He watches soaps like 'Beautific Generation' and 'The Poet'. He's also trans and demisexual. [Emira](/_wiki/emira.md) calls him 'weird bird' or 'bird boy'.
 ## References
@@ -19,4 +19,5 @@ He watches soaps like 'Beautific Generation' and 'The Poet'. He's also trans and
 - The Juncture 2
 - Heaven Lies Beneath 1
 - The Perfect Gift 1, 2
+- The Promise 2
 - Pronouns page
