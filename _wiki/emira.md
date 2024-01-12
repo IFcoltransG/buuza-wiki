@@ -8,7 +8,7 @@ When [Harshul](/_wiki/harshul.md) told [Zach](/_wiki/zach.md) to come to them fo
 
 Hangs around at [Nyah's Shisha](/_wiki/nyahs-shisha.md). Emira is a [Rasul](/_wiki/rasul.md), along with their brother, also a cat, [Omar](/_wiki/omar.md).
 
-Emira overheard information about [Zhen](/_wiki/zhen.md) from Miriam and [Musa](/_wiki/musa.md) at [Nya-Nyails](/_wiki/nya-nyails.md), which [Aria](/_wiki/aria.md) told them to eventually leak to the media, partially in order to deter Miriam from looking for Zhen.
+Emira overheard information about [Zhen](/_wiki/zhen.md) from Miriam and [Musa](/_wiki/musa.md) at [Nya-Nyails](/_wiki/nya-nyails.md), which [Aria](/_wiki/aria.md) told them to eventually leak to the media, partially in order to deter Miriam from looking for Zhen. Knowing Zhen's name and location allows Aria to see him using magic.
 
 [Sam](/_wiki/sam.md) calls Emira 'greasy cat'.
 ## References
