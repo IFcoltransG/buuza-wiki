@@ -2,7 +2,7 @@
 title: An Nur and Al Hadi
 tags: ['Culture', 'Deity']
 ---
-[Bird](/_wiki/bird.md) [goddesses](/_wiki/gods.md) associated with winter. Supposedly dead gods, persecuted. Not gods of death though. Have no holy family, and are different from most [Rasul](/_wiki/rasul.md).
+[Bird](/_wiki/bird.md) [goddesses](/_wiki/gods.md) associated with winter. Supposedly dead gods, persecuted by the [Al Harir dynasty](/_wiki/al-harir.md). Not gods of death though. Have no holy family, unlike most [Rasul](/_wiki/rasul.md) groups.
 
 It's not clear who is the death god, but it's neither of them, nor [Al Muhyi](/_wiki/al-muhyi.md).
 

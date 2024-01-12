@@ -6,7 +6,7 @@ Daeng Aria Bin Dariush (he/they) is a political leader in [Dawlat Al-Harir](/_wi
 He is known as the celestial seer to the gods' will, the exalted oracle, according to the scriptures of the Five Caliphs. They are in a secret relationship with [Sam](/_wiki/sam.md), and meet with her each week — Sam compiles a them report of the future every Friday. He can see the past, supposedly by the grace of [As Sami](/_wiki/as-sami.md). They can also create spiderweb-like portals in space to warp through.
 
 Gets information from [Emira](/_wiki/emira.md). [Virikia](/_wiki/virikia.md) schedules their meetings and adjudicates their races.
-He's enby and bi, and has sisters.
+He's enby and bi, and has [sisters](/_wiki/arias-sisters.md).
 ## References
 - Good Morning Dawlat Al Harir 1, 2
 - The Perfect Gift 1
