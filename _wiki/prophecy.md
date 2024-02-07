@@ -12,7 +12,7 @@ When [Zarina](/_wiki/zarina.md) took power from her parent and ended the attempt
 
 It's worth noting that the comic begins on New Year's Eve, 1997, wintertime.
 
-This prophecy is the reason that [Bird religion](an-nur-and-al-hadi.md) is banned from Dawlat Al-Harir and immigration of birdfolk is restricted, because the Al Harir dynasty wishes to prevent the prophecy from ever eventuating.
+This prophecy is the reason that [Bird religion](/_wiki/an-nur-and-al-hadi.md) is banned from Dawlat Al-Harir and immigration of birdfolk is restricted, because the Al Harir dynasty wishes to prevent the prophecy from ever eventuating.
 
 ## References
 - The Fall Out 5
