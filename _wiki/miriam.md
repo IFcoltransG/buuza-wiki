@@ -8,7 +8,7 @@ She claims she ran for office to take responsibility for making the country bett
 
 She commissions a painted portrait of the family, including their deceased parents, from [Mr Wahed](/_wiki/mr-wahed.md), now that it is seven years after their passing. She wears [her mother's](/_wiki/musas-mother.md) necklace.
 
-Her and Musa's family's gods are [Al Muqit and Al Ba'ith](/_wiki/al-muqit-and-al-baith.md), cat gods.
+Her and Musa's family's gods are [Al Muqit and Al Ba'ith](/_wiki/al-muqit-and-al-baith.md), cat gods, but the two are not [Rasul](/_wiki/rasul.md).
 
 ## References
 - Silent Songs 2
@@ -18,3 +18,4 @@ Her and Musa's family's gods are [Al Muqit and Al Ba'ith](/_wiki/al-muqit-and-al
 - A Family Portrait 1, 2
 - Summersets / Side A 2
 - Pronouns page
+- BUUZA!! 2
