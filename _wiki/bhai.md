@@ -2,7 +2,7 @@
 title: Bhai
 tags: ['Person']
 ---
-Security guard for [Cid](/_wiki/cid.md).
+Security guard for [Cid](/_wiki/cid-al-rashid.md).
 
 ## References
 - Cid 2

@@ -2,7 +2,7 @@
 title: Zach
 tags: ['Person']
 ---
-Zach Kartal (he/him) rooms with [Sam](/_wiki/sam.md). Friends with [Harshul](/_wiki/harshul.md), and both of them work for [Cid](/_wiki/cid.md) taking sex-line phone calls. Harshul used to be his flatmate, and they would watch soap operas together, until their flat's boiler exploded. Friends with [Emira](/_wiki/emira.md). [Cid](/_wiki/cid.md) is his ex and boss. From [Konstantinyye](/_wiki/konstantinyye.md) originally. He has a big collection of pulp graphic novels, such as 'Curse of the Jackalope: The Terror from the New World'.
+Zach Kartal (he/him) rooms with [Sam](/_wiki/sam.md). Friends with [Harshul](/_wiki/harshul.md), and both of them work for [Cid](/_wiki/cid-al-rashid.md) taking sex-line phone calls. Harshul used to be his flatmate, and they would watch soap operas together, until their flat's boiler exploded. Friends with [Emira](/_wiki/emira.md). Cid is his ex and boss. Zach is from [Konstantinyye](/_wiki/konstantinyye.md) originally. He has a big collection of pulp graphic novels, such as 'Curse of the Jackalope: The Terror from the New World'.
 
 Can make [manti](/_wiki/manti.md), which he learnt from [his mother](/_wiki/leila.md), who is a [Bird](/_wiki/bird.md). His father is not; he barely remembers [his father](/_wiki/zachs-father.md). He drinks coffee with no sugar. His favourite colour is green, and his favourite food is lamb chops. (Although his mother thinks his favourite is firinda sutlac.)
 
