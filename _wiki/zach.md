@@ -11,13 +11,14 @@ His work number is 965-6969-777. After [Zhen](/_wiki/zhen.md) called that number
 He studied mathematics for a year in [Salwa University](/_wiki/salwa-university.md), which [Rumeha](/_wiki/rumeha.md) also attended. He is 21 years old. Zach follows [Al Hadi](/_wiki/an-nur-and-al-hadi.md).
 
 He watches soaps like 'Beautific Generation' and 'The Poet'. He's also trans and demisexual. [Emira](/_wiki/emira.md) calls him 'weird bird' or 'bird boy'.
+
 ## References
-- My Quiet Mountain Town 4
-- New Year's Day, 1998 2
-- Backwash
-- Open Invitation
-- The Juncture 2
-- Heaven Lies Beneath 1
-- The Perfect Gift 1, 2
-- The Promise 2
+- [My Quiet Mountain Town](/_wiki/my-quiet-mountain-town.md) 4
+- [New Year's Day, 1998](/_wiki/new-years-day-1998.md) 2
+- [Backwash](/_wiki/backwash.md)
+- [Open Invitation](/_wiki/open-invitation.md)
+- [The Juncture](/_wiki/the-juncture.md) 2
+- [Heaven Lies Beneath](/_wiki/heaven-lies-beneath.md) 1
+- [The Perfect Gift](/_wiki/the-perfect-gift.md) 1, 2
+- [The Promise](/_wiki/the-promise.md) 2
 - Pronouns page

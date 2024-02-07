@@ -9,6 +9,6 @@ She may know about Sam's identity, because she asks about her rich friends and c
 Nithiya is firm in matters of business, and knows [Emira](/_wiki/emira.md).
 
 ## References
-- New Year's Day, 1998 4
-- The Promise 2 3
-- Heaven Lies Beneath 1
+- [New Year's Day, 1998](/_wiki/new-years-day-1998.md) 4
+- [The Promise](/_wiki/the-promise.md) 2, 3
+- [Heaven Lies Beneath](/_wiki/heaven-lies-beneath.md) 1

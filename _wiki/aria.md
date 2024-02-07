@@ -8,13 +8,13 @@ He is known as the celestial seer to the gods' will, the exalted oracle, accordi
 Gets information from [Emira](/_wiki/emira.md). [Virikia](/_wiki/virikia.md) schedules their meetings and adjudicates their races.
 He's enby and bi, and has [sisters](/_wiki/arias-sisters.md).
 ## References
-- Good Morning Dawlat Al Harir 1, 2
-- The Perfect Gift 1
-- Lost \[like a Winter Moon\] 3
-- The Long Summer 2
-- Silent Songs 2
-- Bet On It 1, 2, 3
-- The Promise 2
-- A Summons 5
-- Summersets / Side A
-- The Fall Out 3
+- [Good Morning Dawlat Al Harir](/_wiki/good-morning-dawlat-al-harir.md) 1, 2
+- [The Perfect Gift](/_wiki/the-perfect-gift.md) 1
+- [Lost \[like a Winter Moon\]](/_wiki/lost-like-a-winter-moon.md) 3
+- [The Long Summer](/_wiki/the-long-summer.md) 2
+- [Silent Songs](/_wiki/silent-songs.md) 2
+- [Bet On It](/_wiki/bet-on-it.md) 1, 2, 3
+- [The Promise](/_wiki/the-promise.md) 2
+- [A Summons](/_wiki/a-summons.md) 5
+- [Summersets / Side A](/_wiki/summersets-side-a.md)
+- [The Fall Out](/_wiki/the-fall-out.md) 3

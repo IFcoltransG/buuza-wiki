@@ -11,9 +11,9 @@ Musa is about 188 cm tall and has cochlear implants.
 \* Musa is non-binary, but not out.
 
 ## References
-- New Year's Eve, Side B 1
-- The Juncture 3
-- Third Time Lucky 4
-- A Family Portrait 1, 3
-- A Summons 2
-- BUUZA!! 2
+- [New Year's Eve, Side B](/_wiki/new-years-eve-side-b.md) 1
+- [The Juncture](/_wiki/the-juncture.md) 3
+- [Third Time Lucky](/_wiki/third-time-lucky.md) 4
+- [A Family Portrait](/_wiki/a-family-portrait.md) 1, 3
+- [A Summons](/_wiki/a-summons.md) 2
+- [BUUZA !!](/_wiki/buuza.md) 2

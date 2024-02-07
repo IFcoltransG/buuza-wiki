@@ -9,6 +9,6 @@ Buuza Mongolian Diner is a [Mongolian](/_wiki/mongolia.md) restaurant in [Salwa]
 - [BUUZA!!](/_wiki/buuza.md)
 
 ## References
-- The Promise 3
-- Spring Moon at Midnight 1
-- BUUZA!! 1
+- [The Promise](/_wiki/the-promise.md) 3
+- [Spring Moon at Midnight](/_wiki/spring-moon-at-midnight.md) 1
+- [BUUZA!!](/_wiki/buuza.md) 1

@@ -12,18 +12,19 @@ Her grandmother is [Zarina Alikhanov](/_wiki/zarina.md), a deer from [Kazakhstan
 She doesn't visit her father, even though she likes him.
 
 She's pan. [Emira](/_wiki/emira.md) calls her 'shifty rabbit'.
+
 ## References
-- Nighthawks 1
-- Lost \[like a Winter Moon\] 3
-- My Quiet Mountain Town 4
-- Backwash
-- Have You Ever Watched Your Mother Pray?
-- Pillowtalk
-- Bet On It 2, 7
-- The Juncture 3
-- Heaven Lies Beneath 1
-- A Silent Song 1
-- A Summons 3
-- The End of Spring 2
-- Summersets / Side A 1
+- [Nighthawks 1](/_wiki/nighthawks-1.md)
+- [Lost \[like a Winter Moon\]](/_wiki/lost-like-a-winter-moon.md) 3
+- [My Quiet Mountain Town](/_wiki/my-quiet-mountain-town.md) 4
+- [Backwash](/_wiki/backwash.md)
+- [Have You Ever Watched Your Mother Pray?](/_wiki/have-you-ever-watched-your-mother-pray.md)
+- [Pillowtalk](/_wiki/pillowtalk.md)
+- [Bet On It](/_wiki/bet-on-it.md) 2, 7
+- [The Juncture](/_wiki/the-juncture.md) 3
+- [Heaven Lies Beneath](/_wiki/heaven-lies-beneath.md) 1
+- [Silent Songs](/_wiki/silent-songs.md) 1
+- [A Summons](/_wiki/a-summons.md) 3
+- [The End of Spring](/_wiki/the-end-of-spring.md) 2
+- [Summersets / Side A](/_wiki/summersets-side-a.md) 1
 - Pronouns page

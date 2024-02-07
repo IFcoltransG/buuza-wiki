@@ -10,5 +10,5 @@ Aria and their [sisters](/_wiki/arias-sisters.md) are members of the Al Harir fa
 - [Al Eankabut](/_wiki/al-eankabut.md) dynasty
 
 ## References
-- Silent Songs 2
-- The Fall Out 5
+- [Silent Songs](/_wiki/silent-songs.md) 2
+- [The Fall Out](/_wiki/the-fall-out.md) 5

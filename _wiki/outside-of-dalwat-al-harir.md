@@ -9,7 +9,7 @@ There is a jungle, supposedly cursed, on fertile soil that abuts the rural regio
 The 'New World', i.e. the Americas, are out there somewhere.
 
 ## References
-- The Space Between Us 1
-- A Summons 4
-- BUUZA!! 2
-- Pillowtalk
+- [The Space Between Us](/_wiki/the-space-between-us.md) 1
+- [A Summons](/_wiki/a-summons.md) 4
+- [BUUZA!!](/_wiki/buuza.md) 2
+- [Pillowtalk](/_wiki/pillowtalk.md)

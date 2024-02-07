@@ -12,5 +12,5 @@ The council of representatives sits below [Aria](/_wiki/aria.md) in the rulershi
 The council also appoints ministers, such as for trade, health and education.
 
 ## References
-- The Space Between Us 1
-- Silent Songs 2
+- [The Space Between Us](/_wiki/the-space-between-us.md) 1
+- [Silent Songs](/_wiki/silent-songs.md) 2

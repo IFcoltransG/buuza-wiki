@@ -7,4 +7,4 @@ A [Bird](/_wiki/bird.md) [Rasul](/_wiki/rasul.md), Zach's mother Leila moved to 
 She believes in the full pantheon of gods, but not the divination of [Aria](/_wiki/aria.md).
 
 ## References
-- The Perfect Gift 1
+- [The Perfect Gift](/_wiki/the-perfect-gift.md) 1

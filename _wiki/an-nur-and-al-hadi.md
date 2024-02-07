@@ -9,8 +9,8 @@ It's not clear who is the death god, but it's neither of them, nor [Al Muhyi](/_
 An Nur's followers pray at Fajr, like the followers of [Al 'Mumin](/_wiki/al-mumin.md). Followers of Al Hadi usually pray at Mahgrib.
 
 ## References
-- A Summons 4, 5
-- Bet On It 5
-- Silent Songs 2
-- The Promise 2
-- Nighthawks 1
+- [A Summons](/_wiki/a-summons.md) 4, 5
+- [Bet On It](/_wiki/bet-on-it.md) 5
+- [Silent Songs](/_wiki/silent-songs.md) 2
+- [The Promise](/_wiki/the-promise.md) 2
+- [Nighthawks 1](/_wiki/nighthawks-1.md)

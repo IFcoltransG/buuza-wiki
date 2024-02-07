@@ -9,7 +9,7 @@ Not officially celebrated outside of a particular region, just like [Al Basir](/
 [Al Mu'min](/_wiki/al-mumin.md) may be the consort of Al 'Adl.
 
 ## References
-- Spring Moon at Midnight 2
-- Summersets / Side A 1
-- Nighthawks 1
-- It's Faster With Two 1
+- [Spring Moon at Midnight](/_wiki/spring-moon-at-midnight.md) 2
+- [Summersets / Side A](/_wiki/summersets-side-a.md) 1
+- [Nighthawks 1](/_wiki/nighthawks-1.md)
+- [It's Faster With Two](/_wiki/its-faster-with-two.md) 1

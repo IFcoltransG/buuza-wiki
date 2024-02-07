@@ -25,6 +25,6 @@ While their names are drawn from the names of Allah in real-world Islam, the [co
 Prayer to the gods is used in [greenscharming](/_wiki/greenscharming.md).
 
 ## References
-- Nighthawks 1
-- New Year's Day, 1998 3
-- It's Faster With Two 1
+- [Nighthawks 1](/_wiki/nighthawks-1.md)
+- [New Year's Day, 1998](/_wiki/new-years-day-1998.md) 3
+- [It's Faster With Two](/_wiki/its-faster-with-two.md) 1

@@ -7,5 +7,5 @@ Bahr Aaqala is a region of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md) tucked i
 Possibly called Bahr Aqala.
 
 ## References
-- The Space Between Us 1
-- Silent Songs 2
+- [The Space Between Us](/_wiki/the-space-between-us.md) 1
+- [Silent Songs](/_wiki/silent-songs.md) 2

@@ -14,5 +14,5 @@ Contains [Abu Eankabut](/_wiki/abu-eankabut.md), [Alqadima](/_wiki/alqadima.md),
 In the real world, these fictional regions would be roughly centred around Oman, Yemen, Saudi Arabia, Syria, Turkey, Armenia, western Iran, eastern Iran, Turkmenistan, Uzbekistan, Tajikistan, Rajasthan (India) and Nepal, respectively.
 
 ## References
-- Silent Songs 1, 2
-- Good Morning Dawlat Al Harir 2
+- [Silent Songs](/_wiki/silent-songs.md) 1, 2
+- [Good Morning Dawlat Al Harir](/_wiki/good-morning-dawlat-al-harir.md) 2

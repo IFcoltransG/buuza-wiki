@@ -11,11 +11,11 @@ She commissions a painted portrait of the family, including their deceased paren
 Her and Musa's family's gods are [Al Muqit and Al Ba'ith](/_wiki/al-muqit-and-al-baith.md), cat gods, but the two are not [Rasul](/_wiki/rasul.md).
 
 ## References
-- Silent Songs 2
-- In the Land of Spider Silk 3
-- The Space Between Us 1, 2
-- Third Time Lucky 2
-- A Family Portrait 1, 2
-- Summersets / Side A 2
+- [Silent Songs](/_wiki/silent-songs.md) 2
+- [In the Land of Spider Silk](/_wiki/in-the-land-of-spider-silk.md) 3
+- [The Space Between Us](/_wiki/the-space-between-us.md) 1, 2
+- [Third Time Lucky](/_wiki/third-time-lucky.md) 2
+- [A Family Portrait](/_wiki/a-family-portrait.md) 1, 2
+- [Summersets / Side A](/_wiki/summersets-side-a.md) 2
 - Pronouns page
-- BUUZA!! 2
+- [BUUZA!!](/_wiki/buuza.md) 2

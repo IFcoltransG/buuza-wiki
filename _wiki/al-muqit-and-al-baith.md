@@ -8,7 +8,7 @@ Al Ba'ith is a medicine god. Al Muqit is apparently associated with baking and c
 A greeting spoken to cat [Rasul](/_wiki/rasul.md) goes "As-salamu alaykum Rasul min Al Ba'ith", to which the reply is "Wa alaykumu as-salam".
 
 ## References
-- The Space Between Us 1
-- Bet On It 4
-- A Family Portrait 2
-- Nighthawks 1
+- [The Space Between Us](/_wiki/the-space-between-us.md) 1
+- [Bet On It](/_wiki/bet-on-it.md) 4
+- [A Family Portrait](/_wiki/a-family-portrait.md) 2
+- [Nighthawks 1](/_wiki/nighthawks-1.md)

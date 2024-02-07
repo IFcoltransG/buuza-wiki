@@ -30,4 +30,4 @@ Some people use the deck to divine the future.
 - [Al Muhyi](/_wiki/al-muhyi.md) (this card is known as the Deathhead, because it's worth eleven points, which is dangerously high)
 
 ## References
-- Nighthawks 1
+- [Nighthawks 1](/_wiki/nighthawks-1.md)

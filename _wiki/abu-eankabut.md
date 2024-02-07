@@ -10,6 +10,6 @@ Borders [Alqadima](/_wiki/alqadima.md) and [Dilmun](/_wiki/dilmun.md) to the wes
 - [Al Eankabut](/_wiki/al-eankabut.md) dynasty
 
 ## References
-- Good Morning Dawlat Al Harir 1
-- The Fall Out 1
-- Silent Songs 2
+- [Good Morning Dawlat Al Harir](/_wiki/good-morning-dawlat-al-harir.md) 1
+- [The Fall Out](/_wiki/the-fall-out.md) 1
+- [Silent Songs](/_wiki/silent-songs.md) 2

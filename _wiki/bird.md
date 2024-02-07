@@ -9,8 +9,8 @@ Many groups of Birdfolk are moving away from Dalwat Al-Harir's cities due to per
 [The Al-Harir sisters](/_wiki/arias-sisters.md) return to [Abu Eankabut](/_wiki/abu-eankabut.md) from their ancestral home because they are concerned about undocumented Bird migrants as a threat to national security.
 
 ## References
-- Silent Songs 2
-- The Fall Out 2, 5
-- A Summons 4
-- Bet On It 5
-- The Long Summer 3
+- [Silent Songs](/_wiki/silent-songs.md) 2
+- [The Fall Out](/_wiki/the-fall-out.md) 2, 5
+- [A Summons](/_wiki/a-summons.md) 4
+- [Bet On It](/_wiki/bet-on-it.md) 5
+- [The Long Summer](/_wiki/the-long-summer.md) 3

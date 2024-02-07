@@ -9,6 +9,6 @@ Borders [Eastern Turkistan](/_wiki/eastern-turkistan.md) and [Western Turkistan]
 It is of course a fictional region, and does not correspond exactly to the real world Kazakhstan.
 
 ## References
-- Silent Songs 2
-- The Space Between Us 1
-- The End of Spring 2
+- [Silent Songs](/_wiki/silent-songs.md) 2
+- [The Space Between Us](/_wiki/the-space-between-us.md) 1
+- [The End of Spring](/_wiki/the-end-of-spring.md) 2

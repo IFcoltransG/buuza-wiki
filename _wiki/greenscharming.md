@@ -23,5 +23,6 @@ Greenscharming is an ability of [Rasul](/_wiki/rasul.md) to prevent weeds from g
 Comparing the descriptions with the iconography on their [Deathhead](/_wiki/deathhead.md) artworks, the Radiant Just could potentially be [Al 'Adl](/_wiki/al-adl.md). The Faithful Son of Day might be [Al Mu'min](/_wiki/al-mumin.md). The Emissaries of Light and Sleep may be [An Nur and Al Hadi](/_wiki/an-nur-and-al-hadi.md). In real-world Islam, those four names are used to refer to justice, faith, light, and guidance, respectively, in the context of Allah.
 
 [Sam](/_wiki/sam.md) works as a greenscharmer, and she enlisted [Zach](/_wiki/zach.md) to help with it when performing the ritual.
+
 ## References
-- It's Faster With Two 1
+- [It's Faster With Two](/_wiki/its-faster-with-two.md) 1

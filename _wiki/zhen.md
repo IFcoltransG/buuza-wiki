@@ -11,11 +11,11 @@ He lives with his [grandfather](/_wiki/zhens-grandfather.md) and [father](/_wiki
 He is gay, also vegetarian. He is 24 years old.
 
 ## References
-- New Year's Eve, 1997 4
-- Open Invitation
-- In the Land of Spider Silk 2
-- Blue Hour 1
-- Lost \[like a Winter Moon\] 1
-- The Perfect Gift 2
-- A Family Portrait 3
+- [New Year's Eve, 1997](/_wiki/new-years-eve-1997.md) 4
+- [Open Invitation](/_wiki/open-invitation.md)
+- [In the Land of Spider Silk](/_wiki/in-the-land-of-spider-silk.md) 2
+- [Blue Hour](/_wiki/blue-hour.md) 1
+- [Lost \[like a Winter Moon\]](/_wiki/lost-like-a-winter-moon.md) 1
+- [The Perfect Gift](/_wiki/the-perfect-gift.md) 2
+- [A Family Portrait](/_wiki/a-family-portrait.md) 3
 - Pronouns page

@@ -7,4 +7,4 @@ Harshul went to live with his parents for a while after his flat became uninhabi
 Harshul has a large family of at least six.
 
 ## References
-- The Long Summer 2
+- [The Long Summer](/_wiki/the-long-summer.md) 2

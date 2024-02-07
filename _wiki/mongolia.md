@@ -7,7 +7,7 @@ Where [Sam](/_wiki/sam.md) grew up and learnt to make [buuza](/_wiki/buuza-dish.
 It is of course a fictional place, and does not correspond exactly to the real world Mongolia.
 
 ## References
-- In the Land of Spider Silk 3
-- The End of Spring 1
-- Backwash
-- Have You Ever Watched Your Mother Pray?
+- [In the Land of Spider Silk](/_wiki/in-the-land-of-spider-silk.md) 3
+- [The End of Spring](/_wiki/the-end-of-spring.md) 1
+- [Backwash](/_wiki/backwash.md)
+- [Have You Ever Watched Your Mother Pray?](/_wiki/have-you-ever-watched-your-mother-pray.md)
