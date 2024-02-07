@@ -13,7 +13,7 @@ Emira overheard information about [Zhen](/_wiki/zhen.md) from Miriam and [Musa](
 [Sam](/_wiki/sam.md) calls Emira 'greasy cat'.
 
 ## References
-- [New Year's Day, 1998](/_wiki/new-years-day-1998.md) 2
+- [New Year's Day 1998](/_wiki/new-years-day-1998.md) 2
 - [Bet On It](/_wiki/bet-on-it.md) 3
 - [Heaven Lies Beneath](/_wiki/heaven-lies-beneath.md) 1
 - [BUUZA!!](/_wiki/buuza.md) 1, 2

@@ -14,7 +14,7 @@ He watches soaps like 'Beautific Generation' and 'The Poet'. He's also trans and
 
 ## References
 - [My Quiet Mountain Town](/_wiki/my-quiet-mountain-town.md) 4
-- [New Year's Day, 1998](/_wiki/new-years-day-1998.md) 2
+- [New Year's Day 1998](/_wiki/new-years-day-1998.md) 2
 - [Backwash](/_wiki/backwash.md)
 - [Open Invitation](/_wiki/open-invitation.md)
 - [The Juncture](/_wiki/the-juncture.md) 2

@@ -10,12 +10,12 @@ When [Zarina](/_wiki/zarina.md) took power from her parent and ended the attempt
 >
 > And the Al-Harir Dynasty will fall to dark.
 
-It's worth noting that the comic begins on New Year's Eve, 1997, wintertime.
+It's worth noting that the comic begins on New Year's Eve 1997, wintertime.
 
 This prophecy is the reason that [Bird religion](/_wiki/an-nur-and-al-hadi.md) is banned from Dawlat Al-Harir and immigration of birdfolk is restricted, because the Al Harir dynasty wishes to prevent the prophecy from ever eventuating.
 
 ## References
 - [The Fall Out](/_wiki/the-fall-out.md) 5
-- [New Year's Eve, 1997](/_wiki/new-years-eve-1997.md) 1
+- [New Year's Eve 1997](/_wiki/new-years-eve-1997.md) 1
 - [A Summons](/_wiki/a-summons.md) 4
 - [Bet On It](/_wiki/bet-on-it.md) 5
