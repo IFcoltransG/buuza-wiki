@@ -7,3 +7,6 @@ Cid Al Rashid is a pimp, and an ex of [Zach](/_wiki/zach.md). Cid employs Zach a
 ## References
 - Cid 2
 - Lazy Saturday
+
+## See also
+- [Cid](/_wiki/cid.md)

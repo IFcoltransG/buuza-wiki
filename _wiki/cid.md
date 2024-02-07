@@ -9,3 +9,6 @@ tags: ['Chapter']
 ## [Episode 2](https://tapas.io/episode/2466809)
 
 ## [Episode 3](https://tapas.io/episode/2466810)
+
+## See also
+- [Cid Al Rashid](/_wiki/cid-al-rashid.md)
