@@ -11,7 +11,7 @@ He lives with his [grandfather](/_wiki/zhens-grandfather.md) and [father](/_wiki
 He is gay, also vegetarian. He is 24 years old.
 
 ## References
-- New Year's Eve 1997 4
+- New Year's Eve, 1997 4
 - Open Invitation
 - In the Land of Spider Silk 2
 - Blue Hour 1

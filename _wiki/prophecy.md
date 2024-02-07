@@ -16,6 +16,6 @@ This prophecy is the reason that [Bird religion](an-nur-and-al-hadi.md) is banne
 
 ## References
 - The Fall Out 5
-- New Year's Eve 1997 1
+- New Year's Eve, 1997 1
 - A Summons 4
 - Bet On It 5
