@@ -9,3 +9,5 @@ gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyl
 gem "webrick", "~> 1.8"
 gem "nokogiri"
 gem "jekyll-relative-links"
+
+gem "json", "~> 2.7"
