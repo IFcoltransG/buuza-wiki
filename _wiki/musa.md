@@ -6,7 +6,7 @@ Musa Farris (he/him*) is a student in [Salwa University](/_wiki/salwa-university
 
 Musa is religiously orthodox and pious, and against radical reform. He prays every day. Also aromantic and asexual. Musa and Miriam's family's gods are [Al Muqit and Al Ba'ith](/_wiki/al-muqit-and-al-baith.md), cat gods, but he is not [Rasul](/_wiki/rasul.md).
 
-Musa is about 188 cm tall and has cochlear implants.
+Musa is about 188 cm tall and has bone-anchored hearing aids.
 
 \* Musa is non-binary, but not out.
 
