@@ -6,7 +6,7 @@ Nithiya owns the second-floor flat [Sam](/_wiki/sam.md) and [Zach](/_wiki/zach.m
 
 She may know about Sam's identity, because she asks about her rich friends and calls her '[Aibekovna](/_wiki/aibek.md)' rather than just Aibek.
 
-Nithiya is firm in matters of business, and knows [Emira](/_wiki/emira.md).
+Nithiya is firm in matters of business, and knows [Emira](/_wiki/emira.md). She grew up in a village, outside of [Salwa](/_wiki/salwa.md).
 
 ## References
 - [New Year's Day 1998](/_wiki/new-years-day-1998.md) 4
