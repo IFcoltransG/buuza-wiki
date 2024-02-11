@@ -31,3 +31,4 @@ Some people use the deck to divine the future.
 
 ## References
 - [Nighthawks 1](/_wiki/nighthawks-1.md)
+- [Bet On It](/_wiki/bet-on-it.md) 7
