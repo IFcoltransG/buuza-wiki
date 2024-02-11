@@ -2,7 +2,7 @@
 title: Buuza Mongolian Diner
 tags: ['Location', 'Commercial']
 ---
-Buuza Mongolian Diner is a [Mongolian](/_wiki/mongolia.md) restaurant in [Salwa](/_wiki/salwa.md), which [Sam](/_wiki/sam.md) runs, potentially with help from [Zach](/_wiki/zach.md). It is located in [Nithiya's](/_wiki/nithiya.md) apartment building, on the floor below her office.
+Buuza Mongolian Diner is a [Mongolian](/_wiki/mongolia.md) restaurant in [Salwa](/_wiki/salwa.md), which [Sam](/_wiki/sam.md) runs, with help from [Zach](/_wiki/zach.md). It is located in [Nithiya's](/_wiki/nithiya.md) apartment building, on the floor below her office. They advertise noodles, rice and barbecue on their sign outside.
 
 ## See also
 - [buuza (dish)](/_wiki/buuza-dish.md)

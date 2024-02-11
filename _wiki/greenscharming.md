@@ -24,7 +24,7 @@ Comparing the descriptions with the iconography on their [Deathhead](/_wiki/deat
 
 [Sam](/_wiki/sam.md) works as a greenscharmer, and she enlisted [Zach](/_wiki/zach.md) to help with it when performing the ritual. The more Rasul involved, the longer it takes weeds to regrow.
 
-It is possible that greenscharmers are needed because the weeds are caused by whatever magic turned [Dilmun](_wiki/dilmun.md) from a desert into an oasis.
+It is possible that greenscharmers are needed because the weeds are caused by whatever magic turned [Dilmun](/_wiki/dilmun.md) from a desert into an oasis.
 
 ## References
 - [It's Faster With Two](/_wiki/its-faster-with-two.md) 1
