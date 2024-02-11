@@ -8,6 +8,8 @@ It's not clear who is the death god, but it's neither of them, nor [Al Muhyi](/_
 
 An Nur's followers pray at Fajr, like the followers of [Al 'Mumin](/_wiki/al-mumin.md). Followers of Al Hadi usually pray at Mahgrib.
 
+There is a statue of [Al Hadi](/_wiki/an-nur-and-al-hadi.md) in the [Bird Mosque](/_wiki/bird-mosque.md).
+
 ## References
 - [A Summons](/_wiki/a-summons.md) 4, 5
 - [Bet On It](/_wiki/bet-on-it.md) 5
