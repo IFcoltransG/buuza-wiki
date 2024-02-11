@@ -53,3 +53,4 @@ Tags help categorise new pages. Here are some of the tags you can use.
 - `['Location', 'Education']` for universities
 - `['Culture']` for cultural aspects of Dawlat Al-Harir
 - `['Culture', 'Deity']` for deities
+- `['Chapter']` for chapters of the comic
