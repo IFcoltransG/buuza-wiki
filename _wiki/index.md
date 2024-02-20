@@ -20,4 +20,4 @@ no-backlinks: true
 - [Musa](/_wiki/musa.md) (he/him) is Miriam's brother.
 
 ## Setting
-Our story opens outside [Habibi's Diner](/_wiki/habibis.md) in the city of [Salwa](/_wiki/salwa.md), in the [Dilmun Region](/_wiki/dilmun.md) of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md).
+Our story opens outside [Habibi's Diner](/_wiki/habibis.md) in the city of [Salwa](/_wiki/salwa.md), in the [Dilmun Region](/_wiki/dilmun.md) of [Dawlat Al-Harir](/_wiki/dawlat-al-harir.md). Chapter One is [New Year's Eve 1997](/_wiki/new-years-eve-1997.md).
