@@ -2,7 +2,7 @@
 title: BUUZA!!
 tags: ['Chapter']
 ---
-'BUUZA!!' is a chapter of the [comic](/_wiki/index.md), preceded by [The Fall Out](/_wiki/the-fall-out.md) and followed by a chapter as yet unreleased.
+'BUUZA!!' is a chapter of the [comic](/_wiki/index.md), preceded by [The Fall Out](/_wiki/the-fall-out.md) and followed by [Golden Hour](/_wiki/golden-hour.md).
 
 ## [Episode 1](https://tapas.io/episode/3062745)
 As [Sam](/_wiki/sam.md) and [Zach](/_wiki/zach.md) get ready for the opening of [Buuza](/_wiki/buuza-mongolian-diner.md), she explains why she never visited her [father](/_wiki/sams-father.md) in [Mongolia](/_wiki/mongolia.md) since she was taken away from that side of her family. The restaurant opens, with [Rumeha](/_wiki/rumeha.md), [Sabbah](/_wiki/sabbah.md), [Musa](/_wiki/musa.md), [Leila](/_wiki/leila.md), [Nithiya](/_wiki/nithiya.md), [Saesha](/_wiki/saesha.md), [Emira](/_wiki/emira.md), [Omar](/_wiki/omar.md) and [Harshul](/_wiki/harshul.md) all attending the opening. They all toast. Emira misunderstood the word 'buuza' as 'buza' (ice cream) instead of a [meat dumpling](/_wiki/buuza-dish.md). Zach expected that, and prepared ice blocks for them and Omar alongside the buuza.
