@@ -56,4 +56,4 @@ Tags help categorise new pages. Here are some of the tags you can use.
 - `['Chapter']` for chapters of the comic
 
 ## Developing the wiki
-To test the wiki out locally, install Ruby, then run `bundle install` on the command line inside the folder to install the dependencies. `bundle exec jekyll serve` will allow you to access the wiki from your browser.
+To test the wiki out locally, install Ruby, clone this repository onto your computer, navigate to the folder on the command line, then run `bundle install` on the command line to install the dependencies. After that is installed, running `bundle exec jekyll serve` from the folder will allow you to access a local copy of the wiki in your browser.
