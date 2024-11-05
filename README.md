@@ -54,3 +54,6 @@ Tags help categorise new pages. Here are some of the tags you can use.
 - `['Culture']` for cultural aspects of Dawlat Al-Harir
 - `['Culture', 'Deity']` for deities
 - `['Chapter']` for chapters of the comic
+
+## Developing the wiki
+To test the wiki out locally, install Ruby, then run `bundle install` on the command line inside the folder to install the dependencies. `bundle exec jekyll serve` will allow you to access the wiki from your browser.
