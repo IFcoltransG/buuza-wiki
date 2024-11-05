@@ -44,7 +44,7 @@ sass:
 collections:
   wiki:
     output: true
-    permalink: /:slug
+    permalink: /:slug/
 
 defaults:
   - scope:
